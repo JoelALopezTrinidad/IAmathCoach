@@ -1,0 +1,404 @@
+{
+  "questions": [
+    {
+      "pregunta": "Al lanzar un dado de seis caras, ¿qué tipo de evento es obtener un número mayor que 4?",
+      "respuestas": ["Aleatorio", "Determinístico", "Imposible", "Seguro"],
+      "respuesta_correcta": "Aleatorio"
+    },
+    {
+      "pregunta": "Encender un interruptor y que prenda la luz, ¿qué tipo de evento es?",
+      "respuestas": ["Aleatorio", "Determinístico", "Contradictorio", "Probabilístico"],
+      "respuesta_correcta": "Determinístico"
+    },
+    {
+      "pregunta": "Observar qué color sale al sacar una canica de una bolsa con colores variados es un evento:",
+      "respuestas": ["Aleatorio", "Determinístico", "Controlado", "Evidente"],
+      "respuesta_correcta": "Aleatorio"
+    },
+    {
+      "pregunta": "Si dejas caer un objeto desde cierta altura, que caiga al suelo es un evento:",
+      "respuestas": ["Aleatorio", "Determinístico", "Probable", "Opcional"],
+      "respuesta_correcta": "Determinístico"
+    },
+    {
+      "pregunta": "El resultado de girar una ruleta con números es un evento:",
+      "respuestas": ["Aleatorio", "Determinístico", "Cierto", "Seguro"],
+      "respuesta_correcta": "Aleatorio"
+    },
+    {
+      "pregunta": "Que mañana salga el sol en tu ciudad es un evento:",
+      "respuestas": ["Aleatorio", "Determinístico", "Posible", "Impredecible"],
+      "respuesta_correcta": "Determinístico"
+    },
+    {
+      "pregunta": "Seleccionar una carta al azar de una baraja completa es un evento:",
+      "respuestas": ["Determinístico", "Aleatorio", "Seguro", "Evidente"],
+      "respuesta_correcta": "Aleatorio"
+    },
+    {
+      "pregunta": "Que al calentar agua llegue a hervir a 100°C (al nivel del mar) es un evento:",
+      "respuestas": ["Determinístico", "Aleatorio", "Improbable", "Casi imposible"],
+      "respuesta_correcta": "Determinístico"
+    },
+    {
+      "pregunta": "Tomar una ficha de un recipiente sin mirar para ver su color es un evento:",
+      "respuestas": ["Aleatorio", "Determinístico", "Seguro", "Obligatorio"],
+      "respuesta_correcta": "Aleatorio"
+    },
+    {
+      "pregunta": "Colocar un huevo crudo en el piso y esperar a que no se rompa es un evento:",
+      "respuestas": ["Aleatorio", "Determinístico", "Seguro", "Constante"],
+      "respuesta_correcta": "Aleatorio"
+    },
+    {
+      "pregunta": "Que al sumar 2 + 2 el resultado sea 4 es un evento:",
+      "respuestas": ["Aleatorio", "Determinístico", "Dependiente", "Probable"],
+      "respuesta_correcta": "Determinístico"
+    },
+    {
+      "pregunta": "Elegir un número al azar del 1 al 10 es un evento:",
+      "respuestas": ["Determinístico", "Aleatorio", "Seguro", "Incierto"],
+      "respuesta_correcta": "Aleatorio"
+    },
+    {
+      "pregunta": "Si un maestro revisa una tarea siguiendo los mismos criterios siempre, el resultado de la revisión es un evento:",
+      "respuestas": ["Determinístico", "Aleatorio", "Impredecible", "Indiferente"],
+      "respuesta_correcta": "Determinístico"
+    },
+    {
+      "pregunta": "Un examen sorpresa que puede aplicarse cualquier día es un evento:",
+      "respuestas": ["Determinístico", "Aleatorio", "Seguro", "Constante"],
+      "respuesta_correcta": "Aleatorio"
+    },
+    {
+      "pregunta": "El tiempo exacto que tarda un autobús en llegar al paradero es un evento:",
+      "respuestas": ["Determinístico", "Aleatorio", "Inamovible", "Seguro"],
+      "respuesta_correcta": "Aleatorio"
+    },
+    {
+      "pregunta": "Que al tocar una campana esta emita sonido es un evento:",
+      "respuestas": ["Determinístico", "Aleatorio", "Variable", "Incierto"],
+      "respuesta_correcta": "Determinístico"
+    },
+    {
+      "pregunta": "Obtener un sello al lanzar una moneda es un evento:",
+      "respuestas": ["Aleatorio", "Determinístico", "Seguro", "Predecible"],
+      "respuesta_correcta": "Aleatorio"
+    },
+    {
+      "pregunta": "Que tu computadora encienda al presionar el botón (si funciona correctamente) es un evento:",
+      "respuestas": ["Determinístico", "Aleatorio", "Dudoso", "Impredecible"],
+      "respuesta_correcta": "Determinístico"
+    },
+    {
+      "pregunta": "Predecir qué número saldrá en una tómbola es un evento:",
+      "respuestas": ["Determinístico", "Aleatorio", "Seguro", "Evidente"],
+      "respuesta_correcta": "Aleatorio"
+    },
+    {
+      "pregunta": "Que un vaso de vidrio caiga desde una mesa y se rompa es un evento:",
+      "respuestas": ["Aleatorio", "Determinístico", "Imposible", "Seguro"],
+      "respuesta_correcta": "Determinístico"
+    },
+    {
+      "pregunta": "Escoger un número ganador en una rifa escolar es un evento:",
+      "respuestas": ["Aleatorio", "Determinístico", "Seguro", "Imposible"],
+      "respuesta_correcta": "Aleatorio"
+    },
+    {
+      "pregunta": "Que al colocar un hielo al sol se derrita es un evento:",
+      "respuestas": ["Determinístico", "Aleatorio", "Incierto", "Probabilístico"],
+      "respuesta_correcta": "Determinístico"
+    },
+    {
+      "pregunta": "El color de la pelota que sale de una caja con pelotas mezcladas es un evento:",
+      "respuestas": ["Aleatorio", "Determinístico", "Seguro", "Constante"],
+      "respuesta_correcta": "Aleatorio"
+    },
+    {
+      "pregunta": "Que un tren llegue exactamente a la hora marcada es un evento:",
+      "respuestas": ["Aleatorio", "Determinístico", "Seguro", "Inmutable"],
+      "respuesta_correcta": "Aleatorio"
+    },
+    {
+      "pregunta": "Que una planta crezca si se le brinda agua y luz adecuadas es un evento:",
+      "respuestas": ["Determinístico", "Aleatorio", "Imposible", "Ocasional"],
+      "respuesta_correcta": "Determinístico"
+    },
+    {
+      "pregunta": "Sacar una ficha al azar de una caja para determinar el equipo de un juego es un evento:",
+      "respuestas": ["Aleatorio", "Determinístico", "Seguro", "Directo"],
+      "respuesta_correcta": "Aleatorio"
+    },
+    {
+      "pregunta": "Que al escribir correctamente una contraseña la computadora permita el acceso es un evento:",
+      "respuestas": ["Determinístico", "Aleatorio", "Impredecible", "Parcial"],
+      "respuesta_correcta": "Determinístico"
+    },
+    {
+      "pregunta": "El clima exacto que hará dentro de una semana es un evento:",
+      "respuestas": ["Aleatorio", "Determinístico", "Seguro", "Evidente"],
+      "respuesta_correcta": "Aleatorio"
+    },
+    {
+      "pregunta": "Que una pelota caiga verticalmente al soltarla sin impulso es un evento:",
+      "respuestas": ["Determinístico", "Aleatorio", "Dudoso", "Ocasional"],
+      "respuesta_correcta": "Determinístico"
+    },
+    {
+      "pregunta": "El número que aparece al girar un trompo numerado es un evento:",
+      "respuestas": ["Aleatorio", "Determinístico", "Seguro", "Constante"],
+      "respuesta_correcta": "Aleatorio"
+    },
+    {
+      "pregunta": "Que un objeto metálico atraiga un imán es un evento:",
+      "respuestas": ["Determinístico", "Aleatorio", "Imposible", "Irregular"],
+      "respuesta_correcta": "Determinístico"
+    },
+    {
+      "pregunta": "La selección de un alumno al azar para participar en clase es un evento:",
+      "respuestas": ["Aleatorio", "Determinístico", "Seguro", "Predecible"],
+      "respuesta_correcta": "Aleatorio"
+    },
+    {
+      "pregunta": "Que un automóvil avance al pisar el acelerador (si funciona bien) es un evento:",
+      "respuestas": ["Determinístico", "Aleatorio", "Improbable", "Inestable"],
+      "respuesta_correcta": "Determinístico"
+    },
+    {
+      "pregunta": "El resultado de sacar una carta boca abajo de un mazo es un evento:",
+      "respuestas": ["Aleatorio", "Determinístico", "Seguro", "Evidente"],
+      "respuesta_correcta": "Aleatorio"
+    },
+    {
+      "pregunta": "Que una calculadora dé la misma respuesta cada vez que se realiza la misma operación es un evento:",
+      "respuestas": ["Determinístico", "Aleatorio", "Casi imposible", "Variable"],
+      "respuesta_correcta": "Determinístico"
+    },
+    {
+      "pregunta": "El tiempo exacto que durará el recorrido a la escuela es un evento:",
+      "respuestas": ["Aleatorio", "Determinístico", "Seguro", "Constante"],
+      "respuesta_correcta": "Aleatorio"
+    },
+    {
+      "pregunta": "Que el agua se congele bajo 0°C es un evento:",
+      "respuestas": ["Determinístico", "Aleatorio", "Imposible", "Casual"],
+      "respuesta_correcta": "Determinístico"
+    },
+    {
+      "pregunta": "El número de caras que aparecerán al lanzar tres monedas es un evento:",
+      "respuestas": ["Aleatorio", "Determinístico", "Seguro", "Fijo"],
+      "respuesta_correcta": "Aleatorio"
+    },
+    {
+      "pregunta": "Que una llave abra la puerta correcta es un evento:",
+      "respuestas": ["Determinístico", "Aleatorio", "Dudoso", "Evidente"],
+      "respuesta_correcta": "Determinístico"
+    },
+    {
+      "pregunta": "El orden en que los jugadores entran a una sala de videojuegos en línea es un evento:",
+      "respuestas": ["Aleatorio", "Determinístico", "Seguro", "Estático"],
+      "respuesta_correcta": "Aleatorio"
+    },
+    {
+      "pregunta": "Un evento cuyo resultado no puede predecirse con certeza es:",
+      "respuestas": ["Aleatorio", "Deterministico", "Imposible", "Seguro"],
+      "respuesta_correcta": "Aleatorio"
+    },
+    {
+      "pregunta": "Un evento que siempre ocurre bajo las mismas condiciones es:",
+      "respuestas": ["Aleatorio", "Deterministico", "Variable", "Incierto"],
+      "respuesta_correcta": "Deterministico"
+    },
+    {
+      "pregunta": "Lanzar una moneda es un evento:",
+      "respuestas": ["Aleatorio", "Deterministico", "Seguro", "Lineal"],
+      "respuesta_correcta": "Aleatorio"
+    },
+    {
+      "pregunta": "Resolver 5 + 5 y obtener 10 es un evento:",
+      "respuestas": ["Deterministico", "Aleatorio", "Probable", "Imposible"],
+      "respuesta_correcta": "Deterministico"
+    },
+    {
+      "pregunta": "Un experimento con resultados que cambian cada vez es:",
+      "respuestas": ["Aleatorio", "Deterministico", "Constante", "Seguro"],
+      "respuesta_correcta": "Aleatorio"
+    },
+    {
+      "pregunta": "Un fenómeno que ocurre exactamente igual siempre es:",
+      "respuestas": ["Deterministico", "Aleatorio", "Variable", "Casual"],
+      "respuesta_correcta": "Deterministico"
+    },
+    {
+      "pregunta": "Seleccionar un número sin mirar es un evento:",
+      "respuestas": ["Aleatorio", "Deterministico", "Seguro", "Fijo"],
+      "respuesta_correcta": "Aleatorio"
+    },
+    {
+      "pregunta": "Un proceso completamente predecible es:",
+      "respuestas": ["Deterministico", "Aleatorio", "Mutable", "Indirecto"],
+      "respuesta_correcta": "Deterministico"
+    },
+    {
+      "pregunta": "El tipo de evento que se estudia con probabilidades es:",
+      "respuestas": ["Aleatorio", "Deterministico", "Seguro", "Exacto"],
+      "respuesta_correcta": "Aleatorio"
+    },
+    {
+      "pregunta": "Un evento con causa–efecto fijo es:",
+      "respuestas": ["Deterministico", "Aleatorio", "Incierto", "Probable"],
+      "respuesta_correcta": "Deterministico"
+    },
+    {
+      "pregunta": "Sacar una carta de un mazo es un evento:",
+      "respuestas": ["Aleatorio", "Deterministico", "Seguro", "Constante"],
+      "respuesta_correcta": "Aleatorio"
+    },
+    {
+      "pregunta": "Un evento dependiente del azar es:",
+      "respuestas": ["Aleatorio", "Deterministico", "Seguro", "Directo"],
+      "respuesta_correcta": "Aleatorio"
+    },
+    {
+      "pregunta": "Un evento cuya respuesta siempre es la misma es:",
+      "respuestas": ["Deterministico", "Aleatorio", "Flexible", "Variable"],
+      "respuesta_correcta": "Deterministico"
+    },
+    {
+      "pregunta": "Una situación con múltiples resultados posibles es un evento:",
+      "respuestas": ["Aleatorio", "Deterministico", "Seguro", "Único"],
+      "respuesta_correcta": "Aleatorio"
+    },
+    {
+      "pregunta": "Un evento que no depende del azar es:",
+      "respuestas": ["Deterministico", "Aleatorio", "Improbable", "Cambiante"],
+      "respuesta_correcta": "Deterministico"
+    },
+    {
+      "pregunta": "El resultado de girar una ruleta es:",
+      "respuestas": ["Aleatorio", "Deterministico", "Seguro", "Exacto"],
+      "respuesta_correcta": "Aleatorio"
+    },
+    {
+      "pregunta": "Un sistema que siempre produce el mismo resultado es:",
+      "respuestas": ["Deterministico", "Aleatorio", "Variable", "Irregular"],
+      "respuesta_correcta": "Deterministico"
+    },
+    {
+      "pregunta": "Un experimento que requiere azar es:",
+      "respuestas": ["Aleatorio", "Deterministico", "Seguro", "Constante"],
+      "respuesta_correcta": "Aleatorio"
+    },
+    {
+      "pregunta": "Un fenómeno que puede predecirse totalmente es:",
+      "respuestas": ["Deterministico", "Aleatorio", "Posible", "Incierto"],
+      "respuesta_correcta": "Deterministico"
+    },
+    {
+      "pregunta": "Observar un resultado impredecible indica un evento:",
+      "respuestas": ["Aleatorio", "Deterministico", "Exacto", "Fijo"],
+      "respuesta_correcta": "Aleatorio"
+    },
+    {
+      "pregunta": "Lanzar un dado es un evento aleatorio.",
+      "respuestas": ["Verdadero", "Falso"],
+      "respuesta_correcta": "Verdadero"
+    },
+    {
+      "pregunta": "Un evento determinístico siempre tiene el mismo resultado.",
+      "respuestas": ["Verdadero", "Falso"],
+      "respuesta_correcta": "Verdadero"
+    },
+    {
+      "pregunta": "Sacar una carta al azar es un proceso determinístico.",
+      "respuestas": ["Verdadero", "Falso"],
+      "respuesta_correcta": "Falso"
+    },
+    {
+      "pregunta": "Resolver una multiplicación siempre da el mismo resultado.",
+      "respuestas": ["Verdadero", "Falso"],
+      "respuesta_correcta": "Verdadero"
+    },
+    {
+      "pregunta": "Elegir un número sin mirar es un evento aleatorio.",
+      "respuestas": ["Verdadero", "Falso"],
+      "respuesta_correcta": "Verdadero"
+    },
+    {
+      "pregunta": "Los eventos aleatorios pueden predecirse con certeza.",
+      "respuestas": ["Verdadero", "Falso"],
+      "respuesta_correcta": "Falso"
+    },
+    {
+      "pregunta": "Al calentar agua suficiente, hervirá (a nivel del mar).",
+      "respuestas": ["Verdadero", "Falso"],
+      "respuesta_correcta": "Verdadero"
+    },
+    {
+      "pregunta": "El resultado de una ruleta es determinístico.",
+      "respuestas": ["Verdadero", "Falso"],
+      "respuesta_correcta": "Falso"
+    },
+    {
+      "pregunta": "Un evento aleatorio puede tener varios resultados posibles.",
+      "respuestas": ["Verdadero", "Falso"],
+      "respuesta_correcta": "Verdadero"
+    },
+    {
+      "pregunta": "Que salga el sol cada mañana es un evento determinístico.",
+      "respuestas": ["Verdadero", "Falso"],
+      "respuesta_correcta": "Verdadero"
+    },
+    {
+      "pregunta": "Un evento determinístico depende del azar.",
+      "respuestas": ["Verdadero", "Falso"],
+      "respuesta_correcta": "Falso"
+    },
+    {
+      "pregunta": "Lanzar una moneda es un evento con resultado impredecible.",
+      "respuestas": ["Verdadero", "Falso"],
+      "respuesta_correcta": "Verdadero"
+    },
+    {
+      "pregunta": "Los eventos determinísticos no tienen variación en su resultado.",
+      "respuestas": ["Verdadero", "Falso"],
+      "respuesta_correcta": "Verdadero"
+    },
+    {
+      "pregunta": "El clima exacto de mañana es un evento determinístico.",
+      "respuestas": ["Verdadero", "Falso"],
+      "respuesta_correcta": "Falso"
+    },
+    {
+      "pregunta": "Sacar una canica de una bolsa con colores mixtos es un evento aleatorio.",
+      "respuestas": ["Verdadero", "Falso"],
+      "respuesta_correcta": "Verdadero"
+    },
+    {
+      "pregunta": "Un experimento aleatorio siempre dará el mismo resultado.",
+      "respuestas": ["Verdadero", "Falso"],
+      "respuesta_correcta": "Falso"
+    },
+    {
+      "pregunta": "Los eventos aleatorios se estudian usando probabilidad.",
+      "respuestas": ["Verdadero", "Falso"],
+      "respuesta_correcta": "Verdadero"
+    },
+    {
+      "pregunta": "Un sistema que funciona igual siempre presenta un comportamiento determinístico.",
+      "respuestas": ["Verdadero", "Falso"],
+      "respuesta_correcta": "Verdadero"
+    },
+    {
+      "pregunta": "Elegir un alumno al azar para participar es un evento determinístico.",
+      "respuestas": ["Verdadero", "Falso"],
+      "respuesta_correcta": "Falso"
+    },
+    {
+      "pregunta": "Los eventos aleatorios no pueden saberse con exactitud antes de realizarse.",
+      "respuestas": ["Verdadero", "Falso"],
+      "respuesta_correcta": "Verdadero"
+    }
+  ]
+}

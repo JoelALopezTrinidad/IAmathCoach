@@ -1,0 +1,244 @@
+{
+  "questions": [
+    {
+      "question": "¿Qué representa principalmente un gráfico de barras?",
+      "answers": [
+        "La comparación de valores entre diferentes categorías",
+        "La evolución de una variable en el tiempo",
+        "La proporción de un total dividido en partes",
+        "La relación entre dos variables continuas",
+        "Los valores extremos de una distribución",
+        "La variación acumulada entre datos"
+      ],
+      "correctAnswer": "La comparación de valores entre diferentes categorías"
+    },
+    {
+      "question": "¿Cuándo es más apropiado usar un gráfico de líneas?",
+      "answers": [
+        "Cuando se analizan cambios a lo largo del tiempo",
+        "Cuando se comparan categorías independientes",
+        "Cuando se desea ver proporciones de un total",
+        "Cuando se estudian relaciones entre dos variables",
+        "Cuando se representan valores absolutos sin orden",
+        "Cuando se desea evitar interpretar tendencias"
+      ],
+      "correctAnswer": "Cuando se analizan cambios a lo largo del tiempo"
+    },
+    {
+      "question": "¿Qué tipo de gráfico se utiliza para mostrar proporciones de un total?",
+      "answers": [
+        "Gráfico circular",
+        "Gráfico de barras",
+        "Gráfico de líneas",
+        "Diagrama de dispersión",
+        "Histograma",
+        "Boxplot"
+      ],
+      "correctAnswer": "Gráfico circular"
+    },
+    {
+      "question": "¿Qué diferencia principal existe entre un histograma y un gráfico de barras?",
+      "answers": [
+        "El histograma agrupa datos en intervalos continuos",
+        "El gráfico de barras solo se usa para mostrar proporciones",
+        "El histograma siempre muestra porcentajes",
+        "El gráfico de barras representa datos continuos agrupados",
+        "El histograma no permite comparar categorías",
+        "El gráfico de barras sirve únicamente para variables numéricas"
+      ],
+      "correctAnswer": "El histograma agrupa datos en intervalos continuos"
+    },
+    {
+      "question": "¿Qué tipo de gráfico es más útil para buscar correlación entre dos variables?",
+      "answers": [
+        "Gráfico de dispersión",
+        "Gráfico de barras",
+        "Gráfico circular",
+        "Histograma",
+        "Diagrama de caja",
+        "Gráfico de área"
+      ],
+      "correctAnswer": "Gráfico de dispersión"
+    },
+    {
+      "question": "¿Qué ventaja tiene el gráfico circular frente a otros tipos de gráficos?",
+      "answers": [
+        "Permite ver rápidamente cómo se divide un total en partes",
+        "Representa mejor las tendencias temporales",
+        "Es ideal para mostrar datos agrupados en intervalos",
+        "Muestra relaciones entre dos variables numéricas",
+        "Permite ver rápidamente valores extremos",
+        "Indica el valor exacto de cada categoría"
+      ],
+      "correctAnswer": "Permite ver rápidamente cómo se divide un total en partes"
+    },
+    {
+      "question": "¿Qué característica distingue a un diagrama de caja (boxplot)?",
+      "answers": [
+        "Muestra mediana, cuartiles y valores atípicos",
+        "Representa proporciones entre categorías",
+        "Describe tendencias temporales",
+        "Solo usa datos agrupados en intervalos",
+        "Muestra siempre relaciones entre dos variables",
+        "Representa datos acumulados"
+      ],
+      "correctAnswer": "Muestra mediana, cuartiles y valores atípicos"
+    },
+    {
+      "question": "¿Cuál es una desventaja común del gráfico circular?",
+      "answers": [
+        "Es difícil de interpretar cuando hay muchas categorías",
+        "No permite comparar categorías",
+        "No se puede usar para mostrar proporciones",
+        "Solo sirve para datos continuos",
+        "No representa totales",
+        "Sus valores siempre son aproximados"
+      ],
+      "correctAnswer": "Es difícil de interpretar cuando hay muchas categorías"
+    },
+    {
+      "question": "¿Qué tipo de gráfico permite apreciar mejor la evolución acumulada de una variable en el tiempo?",
+      "answers": [
+        "Gráfico de área",
+        "Gráfico de barras",
+        "Gráfico circular",
+        "Diagrama de dispersión",
+        "Boxplot",
+        "Histograma"
+      ],
+      "correctAnswer": "Gráfico de área"
+    },
+    {
+      "question": "¿Por qué un gráfico de barras es preferible cuando los nombres de las categorías son extensos?",
+      "answers": [
+        "Porque las barras horizontales facilitan su lectura",
+        "Porque evita mostrar valores numéricos",
+        "Porque siempre ocupa menos espacio que otros gráficos",
+        "Porque permite ordenar automáticamente los datos",
+        "Porque sustituye intervalos por porcentajes",
+        "Porque no requiere escalas numéricas"
+      ],
+      "correctAnswer": "Porque las barras horizontales facilitan su lectura"
+    },
+    {
+      "question": "¿Cuál es una ventaja del gráfico de líneas sobre el de barras?",
+      "answers": [
+        "Permite visualizar mejor las tendencias en el tiempo",
+        "Ocupa menos espacio siempre",
+        "Es más adecuado para comparar categorías sin relación",
+        "Se interpreta más rápido en proporciones",
+        "No necesita escalas numéricas",
+        "Funciona mejor con datos cualitativos"
+      ],
+      "correctAnswer": "Permite visualizar mejor las tendencias en el tiempo"
+    },
+    {
+      "question": "¿Qué conclusión podemos obtener al observar un histograma?",
+      "answers": [
+        "La forma de distribución de los datos",
+        "La proporción que representa cada categoría",
+        "La relación entre dos variables numéricas",
+        "La acumulación temporal de los datos",
+        "El valor preciso de la mediana",
+        "La comparación directa entre categorías"
+      ],
+      "correctAnswer": "La forma de distribución de los datos"
+    },
+    {
+      "question": "¿Cuál es una razón válida para NO usar un gráfico circular?",
+      "answers": [
+        "Cuando las diferencias entre partes son muy pequeñas",
+        "Cuando se desea mostrar proporciones de un total",
+        "Cuando se requiere una visión rápida del conjunto",
+        "Cuando hay solo dos categorías",
+        "Cuando se tienen porcentajes exactos",
+        "Cuando se quiere resaltar una categoría principal"
+      ],
+      "correctAnswer": "Cuando las diferencias entre partes son muy pequeñas"
+    },
+    {
+      "question": "¿Qué característica define a un gráfico de dispersión?",
+      "answers": [
+        "Representa pares de valores para analizar relaciones",
+        "Muestra proporciones como partes de un total",
+        "Agrupa datos en clases o intervalos",
+        "Compara categorías independientes",
+        "Siempre ordena los datos de menor a mayor",
+        "Representa acumulación de datos"
+      ],
+      "correctAnswer": "Representa pares de valores para analizar relaciones"
+    },
+    {
+      "question": "¿Qué gráfico facilita identificar valores atípicos en un conjunto de datos?",
+      "answers": [
+        "Diagrama de caja",
+        "Gráfico circular",
+        "Gráfico de barras",
+        "Gráfico de líneas",
+        "Gráfico de área",
+        "Histograma"
+      ],
+      "correctAnswer": "Diagrama de caja"
+    },
+    {
+      "question": "¿En qué situación NO es recomendable un gráfico de barras?",
+      "answers": [
+        "Cuando se desea mostrar relación entre dos variables continuas",
+        "Cuando se comparan categorías distintas",
+        "Cuando se representan datos discretos",
+        "Cuando los valores son numéricos y separados",
+        "Cuando se busca representar cantidades absolutas",
+        "Cuando se necesita destacar cuál categoría es mayor"
+      ],
+      "correctAnswer": "Cuando se desea mostrar relación entre dos variables continuas"
+    },
+    {
+      "question": "¿Qué elemento es imprescindible para interpretar correctamente un gráfico de líneas?",
+      "answers": [
+        "Una escala temporal en el eje horizontal",
+        "Un título extenso que lo explique todo",
+        "Por lo menos tres variables simultáneas",
+        "Una indicación obligatoria del porcentaje total",
+        "Una única observación por serie",
+        "Una leyenda con valores atípicos"
+      ],
+      "correctAnswer": "Una escala temporal en el eje horizontal"
+    },
+    {
+      "question": "¿Cuál es una razón válida para usar un diagrama de caja?",
+      "answers": [
+        "Comparar distribuciones entre diferentes grupos",
+        "Mostrar cómo cambia una variable en el tiempo",
+        "Representar proporciones dentro de un total",
+        "Exhibir relaciones entre dos variables numéricas",
+        "Mostrar datos acumulados por categoría",
+        "Resumir porcentajes por frecuencia"
+      ],
+      "correctAnswer": "Comparar distribuciones entre diferentes grupos"
+    },
+    {
+      "question": "¿Qué diferencia clave tiene un gráfico de área respecto a uno de líneas?",
+      "answers": [
+        "El gráfico de área resalta la acumulación debajo de la línea",
+        "El gráfico de área no muestra tendencias",
+        "El gráfico de área representa categorías sin orden",
+        "El gráfico de área no requiere eje vertical",
+        "El gráfico de área solo sirve para porcentajes",
+        "El gráfico de área es más útil para valores atípicos"
+      ],
+      "correctAnswer": "El gráfico de área resalta la acumulación debajo de la línea"
+    },
+    {
+      "question": "¿Qué ventaja ofrece un histograma al analizar una variable?",
+      "answers": [
+        "Permite ver cuántos datos caen dentro de cada intervalo",
+        "Permite comparar categorías cualitativas fácilmente",
+        "Representa proporciones sin escalas numéricas",
+        "Solo muestra relaciones entre dos variables",
+        "Evita interpretar la frecuencia de los datos",
+        "Siempre reemplaza la necesidad de un gráfico circular"
+      ],
+      "correctAnswer": "Permite ver cuántos datos caen dentro de cada intervalo"
+    }
+  ]
+}

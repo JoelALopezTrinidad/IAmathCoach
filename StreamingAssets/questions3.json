@@ -1,0 +1,124 @@
+{
+  "questions": [
+    {
+      "question": "Un estudio registra la satisfacción de los clientes con puntuaciones del 0 al 10 y además anota sus comentarios. ¿Qué tipos de datos se están recopilando?",
+      "answers": [
+        "Cuantitativos y cualitativos",
+        "Solo cuantitativos",
+        "Solo cualitativos",
+        "Nominales únicamente",
+        "Categóricos sin orden",
+        "Numéricos discretos"
+      ],
+      "correctAnswer": "Cuantitativos y cualitativos"
+    },
+    {
+      "question": "En una base de datos se incluye la variable 'número de matrícula del estudiante'. Aunque es un número, ¿por qué no se considera un dato cuantitativo?",
+      "answers": [
+        "Porque funciona como un identificador y no representa una medida",
+        "Porque no puede sumarse ni promediarse",
+        "Porque tiene letras",
+        "Porque cambia con el tiempo",
+        "Porque depende de la edad del alumno",
+        "Porque no tiene unidades"
+      ],
+      "correctAnswer": "Porque funciona como un identificador y no representa una medida"
+    },
+    {
+      "question": "Si se registra la estatura de un grupo de personas en metros, ¿por qué este dato se considera continuo?",
+      "answers": [
+        "Porque puede tomar infinitos valores dentro de un rango",
+        "Porque solo se obtiene por conteo",
+        "Porque tiene un número limitado de opciones",
+        "Porque se expresa en categorías fijas",
+        "Porque no tiene decimales",
+        "Porque cambia según la edad"
+      ],
+      "correctAnswer": "Porque puede tomar infinitos valores dentro de un rango"
+    },
+    {
+      "question": "Una encuesta pregunta: '¿Cuál es tu comida favorita?' y '¿Cuántas veces a la semana la consumes?'. ¿Qué tipo de datos combinados se generan?",
+      "answers": [
+        "Cualitativos nominales y cuantitativos discretos",
+        "Solo cualitativos nominales",
+        "Cuantitativos continuos y ordinales",
+        "Solo cuantitativos discretos",
+        "Cualitativos ordinales y cuantitativos continuos",
+        "Nominales y numéricos continuos"
+      ],
+      "correctAnswer": "Cualitativos nominales y cuantitativos discretos"
+    },
+    {
+      "question": "En un experimento se mide el tiempo que tarda una planta en crecer cada día. ¿Por qué el tiempo se considera un dato continuo?",
+      "answers": [
+        "Porque puede medirse con diferentes grados de precisión (segundos, minutos, horas)",
+        "Porque se cuenta en cantidades enteras",
+        "Porque no puede tomar valores entre dos números",
+        "Porque representa categorías sin orden",
+        "Porque es un número limitado de valores",
+        "Porque se agrupa en clases exactas"
+      ],
+      "correctAnswer": "Porque puede medirse con diferentes grados de precisión (segundos, minutos, horas)"
+    },
+    {
+      "question": "Una investigación usa la variable 'tipo de transporte utilizado' (auto, bicicleta, autobús, caminar). ¿Por qué se clasifica como cualitativa nominal?",
+      "answers": [
+        "Porque no existe un orden lógico entre las categorías",
+        "Porque puede convertirse en una escala numérica",
+        "Porque depende del clima y no de la persona",
+        "Porque representa una cantidad medible",
+        "Porque se mide en intervalos iguales",
+        "Porque expresa grados de preferencia"
+      ],
+      "correctAnswer": "Porque no existe un orden lógico entre las categorías"
+    },
+    {
+      "question": "Una aplicación clasifica las reseñas de los usuarios como 'Excelente', 'Bueno', 'Regular', 'Malo'. ¿Por qué tipo de dato está trabajando el sistema?",
+      "answers": [
+        "Cualitativo ordinal",
+        "Cualitativo nominal",
+        "Cuantitativo discreto",
+        "Cuantitativo continuo",
+        "Numérico ordinal",
+        "Nominal con jerarquía"
+      ],
+      "correctAnswer": "Cualitativo ordinal"
+    },
+    {
+      "question": "En un registro médico se incluyen el peso, el tipo de sangre y la edad del paciente. ¿Qué combinación de tipos de datos hay?",
+      "answers": [
+        "Cuantitativo continuo, cualitativo nominal y cuantitativo discreto",
+        "Solo cuantitativos continuos",
+        "Solo cualitativos nominales",
+        "Cuantitativos discretos y ordinales",
+        "Cualitativos ordinales y cuantitativos continuos",
+        "Nominales y numéricos categóricos"
+      ],
+      "correctAnswer": "Cuantitativo continuo, cualitativo nominal y cuantitativo discreto"
+    },
+    {
+      "question": "En una base de datos se registra el código postal de los usuarios. Aunque es un número, ¿por qué se clasifica como dato cualitativo nominal?",
+      "answers": [
+        "Porque sirve para identificar zonas, no para medir magnitudes",
+        "Porque no puede sumarse ni promediarse",
+        "Porque varía según el nombre de la calle",
+        "Porque representa categorías ordenadas",
+        "Porque depende del tamaño de la población",
+        "Porque no tiene unidades físicas"
+      ],
+      "correctAnswer": "Porque sirve para identificar zonas, no para medir magnitudes"
+    },
+    {
+      "question": "Una investigación analiza la relación entre el nivel educativo (primaria, secundaria, universidad) y el ingreso mensual. ¿Qué tipos de datos se están relacionando?",
+      "answers": [
+        "Cualitativo ordinal y cuantitativo continuo",
+        "Cualitativo nominal y cuantitativo discreto",
+        "Cuantitativo continuo y nominal sin orden",
+        "Cualitativo ordinal y cualitativo nominal",
+        "Solo cuantitativos discretos",
+        "Cuantitativo ordinal y nominal"
+      ],
+      "correctAnswer": "Cualitativo ordinal y cuantitativo continuo"
+    }
+  ]
+}

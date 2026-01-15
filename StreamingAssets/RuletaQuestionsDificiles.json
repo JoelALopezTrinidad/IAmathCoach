@@ -1,0 +1,404 @@
+{
+  "questions": [
+    {
+      "pregunta": "Un experimento consiste en medir el tiempo exacto que tarda un objeto en caer desde una altura fija en condiciones controladas. ¿Este resultado es un evento aleatorio o determinístico?",
+      "respuestas": ["Aleatorio", "Deterministico"],
+      "respuesta_correcta": "Deterministico"
+    },
+    {
+      "pregunta": "El número de llamadas que recibe un centro de atención durante un minuto cualquiera se clasifica como:",
+      "respuestas": ["Evento aleatorio", "Evento deterministico"],
+      "respuesta_correcta": "Evento aleatorio"
+    },
+    {
+      "pregunta": "Predecir el día exacto en que un volcán hará erupción, con la información científica actual, es considerado:",
+      "respuestas": ["Aleatorio", "Deterministico"],
+      "respuesta_correcta": "Aleatorio"
+    },
+    {
+      "pregunta": "Calcular la trayectoria de un satélite a partir de ecuaciones físicas conocidas se considera un evento:",
+      "respuestas": ["Aleatorio", "Deterministico"],
+      "respuesta_correcta": "Deterministico"
+    },
+    {
+      "pregunta": "El número de peces que caerán en una red al lanzarla al mar corresponde a un evento:",
+      "respuestas": ["Aleatorio", "Deterministico"],
+      "respuesta_correcta": "Aleatorio"
+    },
+    {
+      "pregunta": "En una línea de producción automatizada, donde cada pieza se corta exactamente igual, el largo final de cada pieza (sin fallas) es un evento:",
+      "respuestas": ["Deterministico", "Aleatorio"],
+      "respuesta_correcta": "Deterministico"
+    },
+    {
+      "pregunta": "El resultado del número de defectos que pueden aparecer en un lote de productos, aun cuando se sigan los mismos procesos, se clasifica como:",
+      "respuestas": ["Aleatorio", "Deterministico"],
+      "respuesta_correcta": "Aleatorio"
+    },
+    {
+      "pregunta": "Predecir qué tarjeta saldrá al extraer una de una baraja bien mezclada es un evento:",
+      "respuestas": ["Aleatorio", "Deterministico"],
+      "respuesta_correcta": "Aleatorio"
+    },
+    {
+      "pregunta": "Saber con exactitud la fase de la Luna dentro de un mes se clasifica como:",
+      "respuestas": ["Deterministico", "Aleatorio"],
+      "respuesta_correcta": "Deterministico"
+    },
+    {
+      "pregunta": "La velocidad final de un automóvil que acelera de manera constante en un tramo recto y sin fricción es un evento:",
+      "respuestas": ["Deterministico", "Aleatorio"],
+      "respuesta_correcta": "Deterministico"
+    },
+    {
+      "pregunta": "El número de personas que entrarán a una tienda durante la siguiente hora corresponde a un evento:",
+      "respuestas": ["Aleatorio", "Deterministico"],
+      "respuesta_correcta": "Aleatorio"
+    },
+    {
+      "pregunta": "El crecimiento de una planta bajo condiciones controladas puede considerarse, desde la frecuencia de variación en la altura, como:",
+      "respuestas": ["Aleatorio", "Deterministico"],
+      "respuesta_correcta": "Aleatorio"
+    },
+    {
+      "pregunta": "La posición de un planeta en una fecha futura se calcula mediante modelos físicos y por tanto es un evento:",
+      "respuestas": ["Deterministico", "Aleatorio"],
+      "respuesta_correcta": "Deterministico"
+    },
+    {
+      "pregunta": "La cantidad exacta de gotas de lluvia que caerán en un metro cuadrado durante un minuto es un evento:",
+      "respuestas": ["Aleatorio", "Deterministico"],
+      "respuesta_correcta": "Aleatorio"
+    },
+    {
+      "pregunta": "La reacción química entre dos sustancias puras bajo condiciones fijas produce siempre la misma sustancia. Este resultado es:",
+      "respuestas": ["Deterministico", "Aleatorio"],
+      "respuesta_correcta": "Deterministico"
+    },
+    {
+      "pregunta": "El número de autos que pasarán por un cruce en los próximos 30 segundos se clasifica como:",
+      "respuestas": ["Aleatorio", "Deterministico"],
+      "respuesta_correcta": "Aleatorio"
+    },
+    {
+      "pregunta": "Si una computadora ejecuta un algoritmo que siempre devuelve el mismo resultado con los mismos datos, este comportamiento es:",
+      "respuestas": ["Deterministico", "Aleatorio"],
+      "respuesta_correcta": "Deterministico"
+    },
+    {
+      "pregunta": "La aparición de variaciones mínimas en la temperatura corporal humana durante el día se considera un evento:",
+      "respuestas": ["Aleatorio", "Deterministico"],
+      "respuesta_correcta": "Aleatorio"
+    },
+    {
+      "pregunta": "Un robot programado para moverse exactamente 10 cm cada vez que recibe una señal producirá una distancia final que es un evento:",
+      "respuestas": ["Deterministico", "Aleatorio"],
+      "respuesta_correcta": "Deterministico"
+    },
+    {
+      "pregunta": "El número de intentos necesarios para que un estudiante logre encestar un tiro desde media distancia es un evento:",
+      "respuestas": ["Aleatorio", "Deterministico"],
+      "respuesta_correcta": "Aleatorio"
+    },
+    {
+      "pregunta": "El tiempo exacto en que se descompone una fruta expuesta al aire, aun bajo condiciones controladas, se considera un evento:",
+      "respuestas": ["Deterministico", "Aleatorio", "Seguro", "Imposible"],
+      "respuesta_correcta": "Aleatorio"
+    },
+    {
+      "pregunta": "La distancia que recorrerá una bala disparada en condiciones de laboratorio, sin viento y con un arma calibrada, es un evento:",
+      "respuestas": ["Deterministico", "Aleatorio", "Probable", "Impredecible"],
+      "respuesta_correcta": "Deterministico"
+    },
+    {
+      "pregunta": "El número de estudiantes que contestarán correctamente una pregunta difícil en un examen se clasifica como:",
+      "respuestas": ["Deterministico", "Aleatorio", "Seguro", "Controlado"],
+      "respuesta_correcta": "Aleatorio"
+    },
+    {
+      "pregunta": "La caída de un objeto pesado desde una torre y el tiempo que tarda en llegar al suelo (sin resistencia del aire) es un evento:",
+      "respuestas": ["Aleatorio", "Deterministico", "Incierto", "Fluctuante"],
+      "respuesta_correcta": "Deterministico"
+    },
+    {
+      "pregunta": "El número de clientes que acudirán a un restaurante en un día lluvioso es:",
+      "respuestas": ["Deterministico", "Aleatorio", "Seguro", "Periodico"],
+      "respuesta_correcta": "Aleatorio"
+    },
+    {
+      "pregunta": "La posición final de un péndulo después de una oscilación completa en ausencia de fricción es un evento:",
+      "respuestas": ["Deterministico", "Aleatorio", "Caótico", "Probable"],
+      "respuesta_correcta": "Deterministico"
+    },
+    {
+      "pregunta": "El número de fallas que pueden presentarse en un servidor durante una semana se considera un evento:",
+      "respuestas": ["Deterministico", "Aleatorio", "Seguro", "Exacto"],
+      "respuesta_correcta": "Aleatorio"
+    },
+    {
+      "pregunta": "Determinar qué persona enviará el primer mensaje a un grupo de chat en la mañana es un ejemplo de evento:",
+      "respuestas": ["Deterministico", "Aleatorio", "Seguro", "Indirecto"],
+      "respuesta_correcta": "Aleatorio"
+    },
+    {
+      "pregunta": "Calcular la velocidad de un objeto en caída libre usando las ecuaciones de movimiento es un proceso:",
+      "respuestas": ["Aleatorio", "Deterministico", "Imposible", "Impreciso"],
+      "respuesta_correcta": "Deterministico"
+    },
+    {
+      "pregunta": "El número de burbujas que genera una bebida carbonatada al servirse se considera un evento:",
+      "respuestas": ["Aleatorio", "Deterministico", "Regular", "Aproximado"],
+      "respuesta_correcta": "Aleatorio"
+    },
+    {
+      "pregunta": "La trayectoria de la Tierra alrededor del Sol puede predecirse con exactitud porque es un evento:",
+      "respuestas": ["Aleatorio", "Deterministico", "Irregular", "Variable"],
+      "respuesta_correcta": "Deterministico"
+    },
+    {
+      "pregunta": "La cantidad de veces que una persona estornudará durante un día es un evento:",
+      "respuestas": ["Deterministico", "Aleatorio", "Controlado", "Seguro"],
+      "respuesta_correcta": "Aleatorio"
+    },
+    {
+      "pregunta": "La presión que ejerce un gas ideal bajo condiciones fijas se clasifica como un evento:",
+      "respuestas": ["Deterministico", "Aleatorio", "Variable", "Experimental"],
+      "respuesta_correcta": "Deterministico"
+    },
+    {
+      "pregunta": "El número de autos involucrados en accidentes menores en una ciudad durante un día se considera:",
+      "respuestas": ["Deterministico", "Aleatorio", "Exacto", "Seguro"],
+      "respuesta_correcta": "Aleatorio"
+    },
+    {
+      "pregunta": "La temperatura que alcanzará un metal calentado uniformemente por una resistencia eléctrica es un evento:",
+      "respuestas": ["Aleatorio", "Deterministico", "Caótico", "Inestable"],
+      "respuesta_correcta": "Deterministico"
+    },
+    {
+      "pregunta": "La cantidad de errores que cometerá un estudiante al escribir un párrafo es un evento:",
+      "respuestas": ["Deterministico", "Aleatorio", "Seguro", "Rutinario"],
+      "respuesta_correcta": "Aleatorio"
+    },
+    {
+      "pregunta": "El patrón exacto que dejará un rayo al caer sobre un árbol es considerado un evento:",
+      "respuestas": ["Deterministico", "Aleatorio", "Seguro", "Controlado"],
+      "respuesta_correcta": "Aleatorio"
+    },
+    {
+      "pregunta": "El valor final obtenido al resolver una ecuación algebraica correctamente es un evento:",
+      "respuestas": ["Aleatorio", "Deterministico", "Probable", "Ambiguo"],
+      "respuesta_correcta": "Deterministico"
+    },
+    {
+      "pregunta": "El número de goles que se anotarán en un partido de fútbol es un evento:",
+      "respuestas": ["Deterministico", "Aleatorio", "Seguro", "Fijo"],
+      "respuesta_correcta": "Aleatorio"
+    },
+    {
+      "pregunta": "El volumen de agua requerido para llenar un recipiente con forma y medidas exactas es un evento:",
+      "respuestas": ["Deterministico", "Aleatorio", "Aproximado", "Inestable"],
+      "respuesta_correcta": "Deterministico"
+    },
+    {
+      "pregunta": "La cantidad de grietas que aparecerán en una pared recién construida después de un año se considera un evento:",
+      "respuestas": ["Deterministico", "Aleatorio", "Seguro", "Imposible"],
+      "respuesta_correcta": "Aleatorio"
+    },
+    {
+      "pregunta": "El tiempo exacto que tarda una computadora en ejecutar un algoritmo simple, sin procesos en segundo plano, es un evento:",
+      "respuestas": ["Deterministico", "Aleatorio", "Probable", "Indeterminado"],
+      "respuesta_correcta": "Deterministico"
+    },
+    {
+      "pregunta": "La frecuencia con que un sensor detecta fallas aleatorias en un cableado eléctrico se clasifica como:",
+      "respuestas": ["Aleatorio", "Deterministico", "Seguro", "Progresivo"],
+      "respuesta_correcta": "Aleatorio"
+    },
+    {
+      "pregunta": "Calcular el punto exacto donde aterrizará una pelota lanzada sin viento y con ángulo fijo es un evento:",
+      "respuestas": ["Aleatorio", "Deterministico", "Caótico", "Imprevisible"],
+      "respuesta_correcta": "Deterministico"
+    },
+    {
+      "pregunta": "La cantidad de mensajes que recibirá una publicación en redes sociales en una hora es un evento:",
+      "respuestas": ["Deterministico", "Aleatorio", "Controlado", "Uniforme"],
+      "respuesta_correcta": "Aleatorio"
+    },
+    {
+      "pregunta": "El nivel de agua exacto que alcanzará un tanque al llenarse con una bomba que suministra caudal constante es un evento:",
+      "respuestas": ["Deterministico", "Aleatorio", "Variable", "Probable"],
+      "respuesta_correcta": "Deterministico"
+    },
+    {
+      "pregunta": "El número de veces que fallará una máquina por desgaste durante un mes se considera un evento:",
+      "respuestas": ["Aleatorio", "Deterministico", "Seguro", "Estable"],
+      "respuesta_correcta": "Aleatorio"
+    },
+    {
+      "pregunta": "La posición de una sombra a una hora específica basándose en cálculos astronómicos es un evento:",
+      "respuestas": ["Deterministico", "Aleatorio", "Caótico", "Irregular"],
+      "respuesta_correcta": "Deterministico"
+    },
+    {
+      "pregunta": "El número de veces que un usuario abrirá una aplicación en un día es un evento:",
+      "respuestas": ["Aleatorio", "Deterministico", "Seguro", "Cíclico"],
+      "respuesta_correcta": "Aleatorio"
+    },
+    {
+      "pregunta": "La distancia exacta entre dos puntos fijos medida con un instrumento de alta precisión es un evento:",
+      "respuestas": ["Deterministico", "Aleatorio", "Incómodo", "Estadístico"],
+      "respuesta_correcta": "Deterministico"
+    },
+    {
+      "pregunta": "El total de hojas que caerán de un árbol durante una mañana ventosa es un evento:",
+      "respuestas": ["Aleatorio", "Deterministico", "Seguro", "Constante"],
+      "respuesta_correcta": "Aleatorio"
+    },
+    {
+      "pregunta": "La resistencia eléctrica de un cable nuevo bajo condiciones ideales es un evento:",
+      "respuestas": ["Deterministico", "Aleatorio", "Incierto", "Parcial"],
+      "respuesta_correcta": "Deterministico"
+    },
+    {
+      "pregunta": "El número de estudiantes que llegarán tarde un día cualquiera es un evento:",
+      "respuestas": ["Aleatorio", "Deterministico", "Controlado", "Seguro"],
+      "respuesta_correcta": "Aleatorio"
+    },
+    {
+      "pregunta": "El resultado de sumar dos números conocidos siempre será el mismo; por tanto, es un evento:",
+      "respuestas": ["Deterministico", "Aleatorio", "Probable", "Imposible"],
+      "respuesta_correcta": "Deterministico"
+    },
+    {
+      "pregunta": "La cantidad de veces que una lámpara parpadeará debido a variaciones eléctricas en un día es un evento:",
+      "respuestas": ["Aleatorio", "Deterministico", "Seguro", "Constante"],
+      "respuesta_correcta": "Aleatorio"
+    },
+    {
+      "pregunta": "La energía liberada por un átomo al desintegrarse bajo condiciones fijas es un evento:",
+      "respuestas": ["Deterministico", "Aleatorio", "Irregular", "Impredecible"],
+      "respuesta_correcta": "Deterministico"
+    },
+    {
+      "pregunta": "El número de palabras que escribirá un estudiante en una hoja durante un examen es un evento:",
+      "respuestas": ["Aleatorio", "Deterministico", "Seguro", "Exacto"],
+      "respuesta_correcta": "Aleatorio"
+    },
+    {
+      "pregunta": "La longitud de un material que se expande exactamente cierta cantidad al calentarse es un evento:",
+      "respuestas": ["Deterministico", "Aleatorio", "Flexible", "Caótico"],
+      "respuesta_correcta": "Deterministico"
+    },
+    {
+      "pregunta": "El número de veces que un sistema de red sufrirá interrupciones inesperadas en un mes es un evento:",
+      "respuestas": ["Aleatorio", "Deterministico", "Constante", "Seguro"],
+      "respuesta_correcta": "Aleatorio"
+    },
+    {
+      "pregunta": "El volumen exacto de un sólido regular calculado mediante fórmulas geométricas es un evento:",
+      "respuestas": ["Deterministico", "Aleatorio", "Estimado", "Irregular"],
+      "respuesta_correcta": "Deterministico"
+    },
+    {
+      "pregunta": "El número de átomos que se desintegrarán en una muestra radiactiva durante un intervalo fijo es un evento determinístico.",
+      "respuestas": ["Verdadero", "Falso"],
+      "respuesta_correcta": "Falso"
+    },
+    {
+      "pregunta": "La trayectoria de un proyectil lanzado sin resistencia del aire puede calcularse exactamente, por lo que no es un evento aleatorio.",
+      "respuestas": ["Verdadero", "Falso"],
+      "respuesta_correcta": "Verdadero"
+    },
+    {
+      "pregunta": "El número de accidentes de tránsito que ocurrirán mañana en una ciudad es un evento determinístico porque se puede estimar mediante estadísticas.",
+      "respuestas": ["Verdadero", "Falso"],
+      "respuesta_correcta": "Falso"
+    },
+    {
+      "pregunta": "La mezcla de cartas en una baraja genera resultados inherentemente impredecibles, por lo que cualquier carta que salga corresponde a un evento aleatorio.",
+      "respuestas": ["Verdadero", "Falso"],
+      "respuesta_correcta": "Verdadero"
+    },
+    {
+      "pregunta": "La cantidad de calor liberada por un metal al enfriarse desde una temperatura conocida es un evento determinístico.",
+      "respuestas": ["Verdadero", "Falso"],
+      "respuesta_correcta": "Verdadero"
+    },
+    {
+      "pregunta": "El número de personas que responderán correctamente un examen con preguntas abiertas es un evento determinístico porque depende del contenido.",
+      "respuestas": ["Verdadero", "Falso"],
+      "respuesta_correcta": "Falso"
+    },
+    {
+      "pregunta": "La forma exacta de un copo de nieve es un resultado aleatorio, ya que depende de condiciones variables en la atmósfera.",
+      "respuestas": ["Verdadero", "Falso"],
+      "respuesta_correcta": "Verdadero"
+    },
+    {
+      "pregunta": "El tiempo que tarda un objeto en recorrer una distancia conocida, ignorando fricción, es un evento aleatorio.",
+      "respuestas": ["Verdadero", "Falso"],
+      "respuesta_correcta": "Falso"
+    },
+    {
+      "pregunta": "El número de clientes que llegarán a una tienda en la siguiente hora es un evento aleatorio, incluso si se conocen patrones históricos.",
+      "respuestas": ["Verdadero", "Falso"],
+      "respuesta_correcta": "Verdadero"
+    },
+    {
+      "pregunta": "El valor de la resistencia eléctrica de un cable nuevo, bajo condiciones controladas, es considerado determinístico.",
+      "respuestas": ["Verdadero", "Falso"],
+      "respuesta_correcta": "Verdadero"
+    },
+    {
+      "pregunta": "La cantidad de granos de arena que formarán un pequeño cúmulo al caer de una altura es un evento determinístico.",
+      "respuestas": ["Verdadero", "Falso"],
+      "respuesta_correcta": "Falso"
+    },
+    {
+      "pregunta": "La cantidad de visitas que recibirá un sitio web en un minuto específico es un evento aleatorio.",
+      "respuestas": ["Verdadero", "Falso"],
+      "respuesta_correcta": "Verdadero"
+    },
+    {
+      "pregunta": "El resultado de combinar sustancias químicas puras bajo condiciones idénticas es un evento determinístico.",
+      "respuestas": ["Verdadero", "Falso"],
+      "respuesta_correcta": "Verdadero"
+    },
+    {
+      "pregunta": "El número de veces que una persona parpadeará en una hora es un evento determinístico porque depende del cuerpo humano.",
+      "respuestas": ["Verdadero", "Falso"],
+      "respuesta_correcta": "Falso"
+    },
+    {
+      "pregunta": "La posición de un planeta en una fecha futura se puede predecir con exactitud, por lo que se considera un evento determinístico.",
+      "respuestas": ["Verdadero", "Falso"],
+      "respuesta_correcta": "Verdadero"
+    },
+    {
+      "pregunta": "El tiempo que tarda un huevo en cocerse a punto medio es un evento aleatorio, incluso si se controla la temperatura del agua.",
+      "respuestas": ["Verdadero", "Falso"],
+      "respuesta_correcta": "Falso"
+    },
+    {
+      "pregunta": "El número de veces que fallará un dispositivo electrónico durante un mes es un evento aleatorio.",
+      "respuestas": ["Verdadero", "Falso"],
+      "respuesta_correcta": "Verdadero"
+    },
+    {
+      "pregunta": "La altura que alcanzará un resorte comprimido cierta distancia es un evento determinístico.",
+      "respuestas": ["Verdadero", "Falso"],
+      "respuesta_correcta": "Verdadero"
+    },
+    {
+      "pregunta": "La aparición de defectos en un lote de productos fabricados en masa es un evento aleatorio, incluso con control de calidad.",
+      "respuestas": ["Verdadero", "Falso"],
+      "respuesta_correcta": "Verdadero"
+    },
+    {
+      "pregunta": "La energía necesaria para elevar un objeto a una altura conocida es un resultado aleatorio porque puede variar entre intentos.",
+      "respuestas": ["Verdadero", "Falso"],
+      "respuesta_correcta": "Falso"
+    }
+  ]
+}

@@ -1,0 +1,245 @@
+{
+  "questions": [
+    {
+      "question": "¿Por qué un gráfico de dispersión es más adecuado que un gráfico de barras para analizar la relación entre dos variables numéricas?",
+      "answers": [
+        "Porque permite observar el patrón de asociación entre los valores sin categorizar los datos",
+        "Porque siempre muestra con mayor claridad los valores extremos",
+        "Porque utiliza áreas sombreadas para resaltar acumulación de datos",
+        "Porque divide los datos en intervalos ordenados",
+        "Porque facilita ver proporciones dentro de un total",
+        "Porque agrupa los datos automáticamente"
+      ],
+      "correctAnswer": "Porque permite observar el patrón de asociación entre los valores sin categorizar los datos"
+    },
+    {
+      "question": "¿Cuál es la razón principal para preferir un histograma sobre un gráfico de líneas al estudiar distribuciones?",
+      "answers": [
+        "El histograma muestra con claridad la frecuencia de datos dentro de intervalos",
+        "El histograma elimina la necesidad de un eje vertical",
+        "El histograma permite siempre comparar varias series de datos a la vez",
+        "El gráfico de líneas confunde la interpretación de la mediana",
+        "El histograma no puede mostrar datos agrupados",
+        "El histograma siempre usa porcentajes acumulados"
+      ],
+      "correctAnswer": "El histograma muestra con claridad la frecuencia de datos dentro de intervalos"
+    },
+    {
+      "question": "¿Qué ventaja tiene un boxplot frente a un histograma cuando se comparan dos conjuntos de datos?",
+      "answers": [
+        "Permite comparar mediana, cuartiles y dispersión entre ambos grupos de forma directa",
+        "El boxplot permite ver mayores detalles numéricos que el histograma",
+        "El boxplot elimina la necesidad de una escala numérica",
+        "El histograma dificulta la visualización de datos extremos",
+        "El boxplot siempre muestra relaciones entre variables",
+        "El boxplot organiza automáticamente categorías"
+      ],
+      "correctAnswer": "Permite comparar mediana, cuartiles y dispersión entre ambos grupos de forma directa"
+    },
+    {
+      "question": "¿Por qué puede ser confuso utilizar un gráfico circular cuando hay muchas categorías?",
+      "answers": [
+        "Porque los segmentos se vuelven demasiado pequeños para distinguirse visualmente",
+        "Porque el gráfico circular no admite porcentajes",
+        "Porque el gráfico circular no puede mostrar valores exactos",
+        "Porque obliga a transformar todos los datos en frecuencias absolutas",
+        "Porque siempre requiere más espacio que otros gráficos",
+        "Porque no muestra proporciones del total"
+      ],
+      "correctAnswer": "Porque los segmentos se vuelven demasiado pequeños para distinguirse visualmente"
+    },
+    {
+      "question": "¿Qué característica hace que un gráfico de líneas sea ideal para analizar tendencias?",
+      "answers": [
+        "La conexión secuencial de puntos permite ver el comportamiento progresivo de la variable",
+        "Los segmentos están siempre asociados a proporciones fijas",
+        "Los valores se agrupan automáticamente en intervalos",
+        "Muestra siempre datos ordenados de mayor a menor",
+        "No requiere escala vertical",
+        "Representa acumulación de datos sin variaciones"
+      ],
+      "correctAnswer": "La conexión secuencial de puntos permite ver el comportamiento progresivo de la variable"
+    },
+    {
+      "question": "¿Por qué el histograma puede ser más representativo que la tabla de frecuencias al visualizar datos continuos?",
+      "answers": [
+        "Porque facilita la percepción inmediata de la forma de la distribución",
+        "Porque reemplaza los valores exactos con porcentajes aproximados",
+        "Porque siempre ordena los datos de manera automática",
+        "Porque elimina la necesidad de calcular los intervalos",
+        "Porque muestra relaciones entre variables independientes",
+        "Porque no requiere eje horizontal"
+      ],
+      "correctAnswer": "Porque facilita la percepción inmediata de la forma de la distribución"
+    },
+    {
+      "question": "¿Por qué un gráfico de barras vertical puede no ser adecuado cuando las etiquetas son muy extensas?",
+      "answers": [
+        "Porque las etiquetas se superponen o se vuelven difíciles de leer",
+        "Porque obliga a transformar los datos en porcentajes",
+        "Porque requiere siempre una escala logarítmica",
+        "Porque no permite comparar categorías distintas",
+        "Porque elimina la posibilidad de destacar diferencias",
+        "Porque impide el uso de colores distintos"
+      ],
+      "correctAnswer": "Porque las etiquetas se superponen o se vuelven difíciles de leer"
+    },
+    {
+      "question": "¿Qué ventaja tiene un gráfico de área sobre uno de líneas para mostrar acumulación?",
+      "answers": [
+        "El sombreado resalta cuánto valor se ha acumulado hasta cada punto",
+        "Evita que el lector deba interpretar el eje vertical",
+        "Permite comparar datos sin considerar el tiempo",
+        "Solo muestra los valores máximos y mínimos",
+        "Obliga al uso de una sola serie de datos",
+        "No requiere conectar los puntos entre sí"
+      ],
+      "correctAnswer": "El sombreado resalta cuánto valor se ha acumulado hasta cada punto"
+    },
+    {
+      "question": "¿Qué factor puede distorsionar la interpretación de un gráfico circular?",
+      "answers": [
+        "Las diferencias pequeñas entre porcentajes se perciben con dificultad",
+        "El gráfico circular no puede mostrar datos en porcentajes",
+        "El gráfico circular no posee eje vertical",
+        "Los valores siempre representan datos continuos",
+        "No se puede identificar la categoría más grande",
+        "El gráfico muestra siempre acumulación temporal"
+      ],
+      "correctAnswer": "Las diferencias pequeñas entre porcentajes se perciben con dificultad"
+    },
+    {
+      "question": "¿Qué limitación importante tiene un gráfico de barras para analizar relación entre variables?",
+      "answers": [
+        "No permite observar asociación entre variables numéricas continuas",
+        "No puede mostrar valores exactos en el eje vertical",
+        "Solo muestra datos agrupados en intervalos iguales",
+        "Solo puede utilizar frecuencias relativas",
+        "Nunca se puede usar para comparar categorías",
+        "El gráfico de barras no permite representar varias series"
+      ],
+      "correctAnswer": "No permite observar asociación entre variables numéricas continuas"
+    },
+    {
+      "question": "¿Qué debe considerarse al seleccionar el ancho de los intervalos en un histograma?",
+      "answers": [
+        "Un intervalo muy grande puede ocultar patrones y uno muy pequeño puede producir ruido visual",
+        "Debe ser siempre igual al número de datos disponibles",
+        "Debe basarse únicamente en la media de los datos",
+        "Diferentes intervalos generan siempre la misma forma de distribución",
+        "No afecta la interpretación de la gráfica",
+        "Debe depender de los valores atípicos"
+      ],
+      "correctAnswer": "Un intervalo muy grande puede ocultar patrones y uno muy pequeño puede producir ruido visual"
+    },
+    {
+      "question": "¿Por qué un diagrama de caja es útil para comparar dos grupos de datos?",
+      "answers": [
+        "Porque muestra mediana, variabilidad y posible presencia de datos atípicos de cada grupo",
+        "Porque muestra proporciones exactas en porcentajes",
+        "Porque puede representar solo una serie a la vez",
+        "Porque elimina la necesidad de cálculo estadístico",
+        "Porque siempre utiliza valores continuos exclusivamente",
+        "Porque evita mostrar diferencias en cuartiles"
+      ],
+      "correctAnswer": "Porque muestra mediana, variabilidad y posible presencia de datos atípicos de cada grupo"
+    },
+    {
+      "question": "¿Qué ventaja tiene el gráfico de dispersión cuando se agregan líneas de tendencia?",
+      "answers": [
+        "Permite visualizar el tipo de relación entre las variables, como lineal o curvilínea",
+        "Evita el uso de datos numéricos reales",
+        "Convierte los datos automáticamente en categorías",
+        "Siempre transforma los valores en porcentajes",
+        "Se elimina la necesidad de eje horizontal",
+        "Solo puede mostrar relaciones positivas"
+      ],
+      "correctAnswer": "Permite visualizar el tipo de relación entre las variables, como lineal o curvilínea"
+    },
+    {
+      "question": "¿Qué efecto negativo puede tener un mal uso de colores en un gráfico comparativo?",
+      "answers": [
+        "Puede confundir al lector y dificultar distinguir series o categorías",
+        "Puede eliminar la necesidad de ejes numéricos",
+        "Puede transformar las proporciones del gráfico",
+        "Puede obligar a usar escalas adicionales",
+        "Puede hacer que los valores cambien automáticamente",
+        "Puede impedir representar leyendas"
+      ],
+      "correctAnswer": "Puede confundir al lector y dificultar distinguir series o categorías"
+    },
+    {
+      "question": "¿Qué consecuencia puede tener un gráfico de líneas con demasiados puntos o series?",
+      "answers": [
+        "Puede saturar visualmente la gráfica, dificultando identificar tendencias",
+        "Obliga a transformar los datos a valores categóricos",
+        "Elimina la necesidad de una escala temporal",
+        "Convierte automáticamente los valores en porcentajes",
+        "Evita mostrar relaciones entre variables",
+        "Debe ser reemplazado por un gráfico circular"
+      ],
+      "correctAnswer": "Puede saturar visualmente la gráfica, dificultando identificar tendencias"
+    },
+    {
+      "question": "¿Por qué se recomienda acompañar un histograma con medidas numéricas como media o mediana?",
+      "answers": [
+        "Porque el histograma muestra forma de distribución pero no valores representativos centrales",
+        "Porque el histograma no utiliza ejes numéricos",
+        "Porque el histograma siempre obliga al uso de porcentajes",
+        "Porque elimina la necesidad de interpretar frecuencias",
+        "Porque el histograma convierte datos en categorías",
+        "Porque los intervalos no influyen en la distribución"
+      ],
+      "correctAnswer": "Porque el histograma muestra forma de distribución pero no valores representativos centrales"
+    },
+    {
+      "question": "¿Por qué un gráfico circular puede inducir errores cuando se comparan varios gráficos de pastel entre sí?",
+      "answers": [
+        "Porque las diferencias visuales entre áreas pueden ser difíciles de percibir con precisión",
+        "Porque cada circular siempre usa escalas diferentes",
+        "Porque solo puede representar porcentajes de 10 en 10",
+        "Porque no incluye valores absolutos jamás",
+        "Porque no permite incluir más de dos categorías",
+        "Porque elimina la relación entre frecuencia y total"
+      ],
+      "correctAnswer": "Porque las diferencias visuales entre áreas pueden ser difíciles de percibir con precisión"
+    },
+    {
+      "question": "¿Qué decisión podría distorsionar visualmente la interpretación de un gráfico de barras?",
+      "answers": [
+        "Modificar la escala vertical para exagerar o reducir diferencias",
+        "Usar colores distintos para cada barra",
+        "Incluir la leyenda dentro del gráfico",
+        "Colocar las barras horizontalmente",
+        "Usar un fondo blanco en lugar de colores",
+        "Alinear barras de mayor a menor"
+      ],
+      "correctAnswer": "Modificar la escala vertical para exagerar o reducir diferencias"
+    },
+    {
+      "question": "¿Qué ventaja tiene un mapa de calor sobre un gráfico de barras al representar una matriz de datos?",
+      "answers": [
+        "Permite visualizar patrones de intensidad entre variables en dos dimensiones",
+        "Elimina la necesidad de utilizar colores",
+        "Reemplaza automáticamente los valores numéricos",
+        "Solo muestra datos continuos y no discretos",
+        "Es imposible incluir demasiados valores",
+        "No requiere ejes para interpretación"
+      ],
+      "correctAnswer": "Permite visualizar patrones de intensidad entre variables en dos dimensiones"
+    },
+    {
+      "question": "¿Por qué puede ser necesario ordenar las barras antes de mostrar un gráfico categórico?",
+      "answers": [
+        "Porque facilita la comparación visual al organizar las categorías de menor a mayor o viceversa",
+        "Porque el gráfico no se puede interpretar sin orden ascendente",
+        "Porque elimina la necesidad de escala numérica",
+        "Porque convierte los datos en percentiles automáticamente",
+        "Porque impide mostrar frecuencias absolutas",
+        "Porque todos los gráficos requieren orden alfabético"
+      ],
+      "correctAnswer": "Porque facilita la comparación visual al organizar las categorías de menor a mayor o viceversa"
+    }
+  ]
+
+}

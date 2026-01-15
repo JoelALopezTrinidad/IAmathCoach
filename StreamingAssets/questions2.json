@@ -1,0 +1,124 @@
+{
+  "questions": [
+    {
+      "question": "En una investigación se registran las calificaciones de los estudiantes en un examen. ¿Qué tipo de dato es y por qué?",
+      "answers": [
+        "Cuantitativo, porque se expresan con números que indican una medida",
+        "Cualitativo, porque describen el desempeño de los alumnos",
+        "Nominal, porque solo clasifican a los estudiantes",
+        "Categórico, porque los números representan etiquetas",
+        "Cuantitativo, porque los datos son simbólicos",
+        "Cualitativo, porque muestran opiniones"
+      ],
+      "correctAnswer": "Cuantitativo, porque se expresan con números que indican una medida"
+    },
+    {
+      "question": "Una encuesta pide a los participantes que califiquen su satisfacción del 1 al 5. ¿Qué tipo de datos se están recolectando?",
+      "answers": [
+        "Cuantitativos ordinales, porque los números representan niveles de satisfacción",
+        "Cualitativos nominales, porque solo clasifican las respuestas",
+        "Cuantitativos continuos, porque se pueden medir con precisión",
+        "Cualitativos ordinales, porque hay un orden sin medida exacta",
+        "Nominales, porque cada número representa una categoría distinta",
+        "Cuantitativos discretos, porque solo hay números enteros"
+      ],
+      "correctAnswer": "Cuantitativos ordinales, porque los números representan niveles de satisfacción"
+    },
+    {
+      "question": "Si se recopila la temperatura de diferentes ciudades, ¿qué característica del dato la convierte en cuantitativa continua?",
+      "answers": [
+        "Puede tomar cualquier valor dentro de un rango",
+        "Solo puede expresarse con números enteros",
+        "Se obtiene mediante conteo, no medición",
+        "No admite decimales ni aproximaciones",
+        "Depende de categorías fijas",
+        "Se expresa mediante palabras"
+      ],
+      "correctAnswer": "Puede tomar cualquier valor dentro de un rango"
+    },
+    {
+      "question": "En un estudio, se clasifica a las personas según su grupo sanguíneo (A, B, AB, O). ¿Qué tipo de dato es?",
+      "answers": [
+        "Cualitativo nominal",
+        "Cualitativo ordinal",
+        "Cuantitativo continuo",
+        "Cuantitativo discreto",
+        "Numérico ordinal",
+        "Categórico con orden"
+      ],
+      "correctAnswer": "Cualitativo nominal"
+    },
+    {
+      "question": "¿Por qué el color de cabello no puede considerarse un dato cuantitativo?",
+      "answers": [
+        "Porque no se puede medir ni contar con números",
+        "Porque siempre cambia con el tiempo",
+        "Porque depende del gusto personal",
+        "Porque no tiene unidades de medida",
+        "Porque se expresa con letras",
+        "Porque no es observable"
+      ],
+      "correctAnswer": "Porque no se puede medir ni contar con números"
+    },
+    {
+      "question": "En una encuesta se pregunta '¿Cuál es tu nivel de estudios?'. Las opciones son: primaria, secundaria, preparatoria, universidad. ¿Qué tipo de dato es?",
+      "answers": [
+        "Cualitativo ordinal",
+        "Cualitativo nominal",
+        "Cuantitativo discreto",
+        "Cuantitativo continuo",
+        "Categórico sin orden",
+        "Numérico ordinal"
+      ],
+      "correctAnswer": "Cualitativo ordinal"
+    },
+    {
+      "question": "Si en una tabla se registran los países de origen de 100 personas, ¿qué tipo de dato se obtiene?",
+      "answers": [
+        "Cualitativo nominal",
+        "Cualitativo ordinal",
+        "Cuantitativo discreto",
+        "Cuantitativo continuo",
+        "Numérico categórico",
+        "Ordinal medible"
+      ],
+      "correctAnswer": "Cualitativo nominal"
+    },
+    {
+      "question": "Una base de datos almacena la cantidad de hijos por familia. ¿Qué tipo de dato es y por qué?",
+      "answers": [
+        "Cuantitativo discreto, porque se obtiene por conteo",
+        "Cuantitativo continuo, porque puede tener decimales",
+        "Cualitativo nominal, porque son categorías",
+        "Cualitativo ordinal, porque hay orden",
+        "Cuantitativo continuo, porque se mide con precisión",
+        "Categórico sin orden"
+      ],
+      "correctAnswer": "Cuantitativo discreto, porque se obtiene por conteo"
+    },
+    {
+      "question": "Si un investigador registra la velocidad promedio de distintos autos en una pista, ¿qué tipo de dato obtiene?",
+      "answers": [
+        "Cuantitativo continuo",
+        "Cuantitativo discreto",
+        "Cualitativo nominal",
+        "Cualitativo ordinal",
+        "Categórico numérico",
+        "Nominal medible"
+      ],
+      "correctAnswer": "Cuantitativo continuo"
+    },
+    {
+      "question": "Una empresa clasifica sus productos como 'alta calidad', 'media calidad' y 'baja calidad'. ¿Qué tipo de dato representa esta clasificación?",
+      "answers": [
+        "Cualitativo ordinal",
+        "Cualitativo nominal",
+        "Cuantitativo discreto",
+        "Cuantitativo continuo",
+        "Ordinal numérico",
+        "Nominal medible"
+      ],
+      "correctAnswer": "Cualitativo ordinal"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "questions": [
+    {
+      "question": "¿Qué es un dato?",
+      "answers": [
+        "Una información obtenida mediante observación o medición",
+        "Una opinión sobre un tema",
+        "Una suposición sin comprobar",
+        "Un dibujo que representa algo",
+        "Una idea que alguien imagina",
+        "Un ejemplo sin evidencia"
+      ],
+      "correctAnswer": "Una información obtenida mediante observación o medición"
+    },
+    {
+      "question": "¿Cuál de los siguientes ejemplos representa un dato?",
+      "answers": [
+        "Hoy hay 25 grados de temperatura",
+        "El cielo es bonito",
+        "A mí me gusta el color azul",
+        "Creo que lloverá mañana",
+        "La música es agradable",
+        "El perro es simpático"
+      ],
+      "correctAnswer": "Hoy hay 25 grados de temperatura"
+    },
+    {
+      "question": "¿Qué tipo de información se usa para formar una tabla de datos?",
+      "answers": [
+        "Datos recolectados mediante observación o encuesta",
+        "Opiniones personales",
+        "Historias inventadas",
+        "Citas de libros",
+        "Conclusiones sin evidencia",
+        "Predicciones hipotéticas"
+      ],
+      "correctAnswer": "Datos recolectados mediante observación o encuesta"
+    },
+    {
+      "question": "¿Qué se necesita para que una información sea considerada un dato válido?",
+      "answers": [
+        "Que pueda medirse, contarse o describirse de forma clara",
+        "Que provenga de una persona famosa",
+        "Que sea algo interesante",
+        "Que se repita varias veces",
+        "Que alguien la apruebe",
+        "Que esté escrita en un libro"
+      ],
+      "correctAnswer": "Que pueda medirse, contarse o describirse de forma clara"
+    },
+    {
+      "question": "¿Cuál de los siguientes datos es cuantitativo?",
+      "answers": [
+        "Edad de las personas",
+        "Color de ojos",
+        "Tipo de mascota",
+        "Marca de celular",
+        "Sabor de helado favorito",
+        "Ciudad de nacimiento"
+      ],
+      "correctAnswer": "Edad de las personas"
+    },
+    {
+      "question": "¿Cuál de los siguientes datos es cualitativo?",
+      "answers": [
+        "Sabor de helado preferido",
+        "Número de zapatos que tiene una persona",
+        "Altura de un niño",
+        "Peso de una fruta",
+        "Temperatura ambiente",
+        "Distancia recorrida"
+      ],
+      "correctAnswer": "Sabor de helado preferido"
+    },
+    {
+      "question": "¿Qué diferencia principal hay entre un dato cualitativo y uno cuantitativo?",
+      "answers": [
+        "El cuantitativo se expresa con números y el cualitativo con palabras",
+        "El cualitativo se puede contar, el cuantitativo no",
+        "El cuantitativo siempre es más exacto",
+        "El cualitativo es más importante",
+        "El cuantitativo se obtiene por encuestas",
+        "El cualitativo se usa solo en ciencias sociales"
+      ],
+      "correctAnswer": "El cuantitativo se expresa con números y el cualitativo con palabras"
+    },
+    {
+      "question": "En una encuesta sobre frutas favoritas, las respuestas son: manzana, plátano, fresa. ¿Qué tipo de dato es?",
+      "answers": [
+        "Cualitativo",
+        "Cuantitativo",
+        "Numérico",
+        "Medible",
+        "Ordinal",
+        "Ninguno"
+      ],
+      "correctAnswer": "Cualitativo"
+    },
+    {
+      "question": "Un grupo de estudiantes mide la temperatura diaria durante una semana. ¿Qué tipo de datos están recolectando?",
+      "answers": [
+        "Cuantitativos",
+        "Cualitativos",
+        "Categóricos",
+        "Descriptivos",
+        "Nominales",
+        "Subjetivos"
+      ],
+      "correctAnswer": "Cuantitativos"
+    },
+    {
+      "question": "En un estudio se registran los colores de los autos que pasan por una calle. ¿Qué tipo de dato es y por qué?",
+      "answers": [
+        "Cualitativo, porque se describe una característica (color)",
+        "Cuantitativo, porque se pueden contar los autos",
+        "Cuantitativo, porque hay números",
+        "Cualitativo, porque se mide la velocidad",
+        "Nominal, porque representa categorías sin orden",
+        "Numérico, porque el conteo involucra cifras"
+      ],
+      "correctAnswer": "Cualitativo, porque se describe una característica (color)"
+    }
+  ]
+}

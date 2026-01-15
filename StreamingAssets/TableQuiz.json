@@ -1,0 +1,258 @@
+{
+  "dataset_1": {
+    "etiquetas": ["Manzanas", "Naranjas", "Plátanos", "Uvas", "Peras", "Fresas"],
+    "matriz": [
+      [52, 0.2600, 26.00],
+      [33, 0.1650, 16.50],
+      [25, 0.1250, 12.50],
+      [40, 0.2000, 20.00],
+      [30, 0.1500, 15.00],
+      [20, 0.1000, 10.00]
+    ],
+    "preguntas": [
+      {
+        "pregunta": "¿Cuál es la frecuencia absoluta de las Manzanas?",
+        "respuesta_correcta": 52,
+        "opciones": [52, 33, 25, 40]
+      },
+      {
+        "pregunta": "¿Qué fruta tiene una frecuencia relativa de 0.1650?",
+        "respuesta_correcta": "Naranjas",
+        "opciones": ["Manzanas", "Naranjas", "Plátanos", "Uvas"]
+      },
+      {
+        "pregunta": "¿Cuál es la frecuencia relativa % de las Uvas?",
+        "respuesta_correcta": 20.00,
+        "opciones": [20.00, 15.00, 10.00, 26.00]
+      },
+      {
+        "pregunta": "¿Qué fruta tiene la menor frecuencia absoluta?",
+        "respuesta_correcta": "Fresas",
+        "opciones": ["Fresas", "Peras", "Plátanos", "Naranjas"]
+      },
+      {
+        "pregunta": "¿Cuál es la frecuencia relativa de las Peras?",
+        "respuesta_correcta": 0.1500,
+        "opciones": [0.1500, 0.1250, 0.1000, 0.2600]
+      },
+      {
+        "pregunta": "¿Qué fruta tiene una frecuencia relativa % de 12.50?",
+        "respuesta_correcta": "Plátanos",
+        "opciones": ["Plátanos", "Manzanas", "Fresas", "Uvas"]
+      },
+      {
+        "pregunta": "¿Cuál es la frecuencia absoluta de las Fresas?",
+        "respuesta_correcta": 20,
+        "opciones": [20, 30, 40, 25]
+      },
+      {
+        "pregunta": "¿Qué fruta tiene una frecuencia relativa de 0.2600?",
+        "respuesta_correcta": "Manzanas",
+        "opciones": ["Manzanas", "Naranjas", "Peras", "Fresas"]
+      },
+      {
+        "pregunta": "¿Cuál es la frecuencia relativa % de las Naranjas?",
+        "respuesta_correcta": 16.50,
+        "opciones": [16.50, 26.00, 10.00, 15.00]
+      },
+      {
+        "pregunta": "¿Qué fruta tiene una frecuencia absoluta de 30?",
+        "respuesta_correcta": "Peras",
+        "opciones": ["Peras", "Uvas", "Fresas", "Plátanos"]
+      }
+    ]
+  },
+
+  "dataset_2": {
+    "etiquetas": ["Carros", "Motos", "Bicicletas", "Camiones", "Autobuses", "Patinetas"],
+    "matriz": [
+      [60, 0.3000, 30.00],
+      [25, 0.1250, 12.50],
+      [20, 0.1000, 10.00],
+      [35, 0.1750, 17.50],
+      [40, 0.2000, 20.00],
+      [20, 0.1000, 10.00]
+    ],
+    "preguntas": [
+      {
+        "pregunta": "¿Cuál es la frecuencia absoluta de los Carros?",
+        "respuesta_correcta": 60,
+        "opciones": [60, 35, 20, 25]
+      },
+      {
+        "pregunta": "¿Qué medio de transporte tiene una frecuencia relativa de 0.2000?",
+        "respuesta_correcta": "Autobuses",
+        "opciones": ["Autobuses", "Camiones", "Carros", "Patinetas"]
+      },
+      {
+        "pregunta": "¿Cuál es la frecuencia relativa % de los Camiones?",
+        "respuesta_correcta": 17.50,
+        "opciones": [17.50, 30.00, 12.50, 20.00]
+      },
+      {
+        "pregunta": "¿Qué opción tiene la menor frecuencia absoluta?",
+        "respuesta_correcta": "Bicicletas",
+        "opciones": ["Bicicletas", "Motos", "Patinetas", "Carros"]
+      },
+      {
+        "pregunta": "¿Cuál es la frecuencia relativa de las Motos?",
+        "respuesta_correcta": 0.1250,
+        "opciones": [0.1250, 0.1000, 0.1750, 0.3000]
+      },
+      {
+        "pregunta": "¿Qué medio tiene una frecuencia relativa % de 10.00?",
+        "respuesta_correcta": "Patinetas",
+        "opciones": ["Patinetas", "Camiones", "Bicicletas", "Motos"]
+      },
+      {
+        "pregunta": "¿Cuál es la frecuencia absoluta de los Autobuses?",
+        "respuesta_correcta": 40,
+        "opciones": [40, 20, 35, 25]
+      },
+      {
+        "pregunta": "¿Qué medio de transporte tiene una frecuencia relativa de 0.3000?",
+        "respuesta_correcta": "Carros",
+        "opciones": ["Carros", "Bicicletas", "Motos", "Camiones"]
+      },
+      {
+        "pregunta": "¿Cuál es la frecuencia relativa % de las Bicicletas?",
+        "respuesta_correcta": 10.00,
+        "opciones": [10.00, 30.00, 20.00, 17.50]
+      },
+      {
+        "pregunta": "¿Qué medio de transporte tiene una frecuencia absoluta de 35?",
+        "respuesta_correcta": "Camiones",
+        "opciones": ["Camiones", "Autobuses", "Carros", "Motos"]
+      }
+    ]
+  },
+
+  "dataset_3": {
+    "etiquetas": ["Lápices", "Cuadernos", "Mochilas", "Plumas", "Reglas", "Borradores"],
+    "matriz": [
+      [36, 0.3077, 30.77],
+      [27, 0.2308, 23.08],
+      [14, 0.1197, 11.97],
+      [10, 0.0855, 8.55],
+      [18, 0.1538, 15.38],
+      [12, 0.1026, 10.26]
+    ],
+    "preguntas": [
+      {
+        "pregunta": "¿Cuál es la frecuencia absoluta de los Lápices?",
+        "respuesta_correcta": 36,
+        "opciones": [36, 27, 14, 10]
+      },
+      {
+        "pregunta": "¿Qué artículo tiene una frecuencia relativa de 0.2308?",
+        "respuesta_correcta": "Cuadernos",
+        "opciones": ["Lápices", "Cuadernos", "Mochilas", "Plumas"]
+      },
+      {
+        "pregunta": "¿Cuál es la frecuencia relativa porcentual de las Reglas?",
+        "respuesta_correcta": 15.38,
+        "opciones": [15.38, 23.08, 8.55, 10.26]
+      },
+      {
+        "pregunta": "¿Cuántas Mochilas se registraron según la frecuencia absoluta?",
+        "respuesta_correcta": 14,
+        "opciones": [14, 12, 18, 10]
+      },
+      {
+        "pregunta": "¿Qué artículo tiene la menor frecuencia relativa porcentual?",
+        "respuesta_correcta": "Plumas",
+        "opciones": ["Plumas", "Mochilas", "Borradores", "Lápices"]
+      },
+      {
+        "pregunta": "¿Cuál es la frecuencia relativa de los Borradores?",
+        "respuesta_correcta": 0.1026,
+        "opciones": [0.1026, 0.1538, 0.0855, 0.2308]
+      },
+      {
+        "pregunta": "¿Qué artículo tiene una frecuencia absoluta de 18?",
+        "respuesta_correcta": "Reglas",
+        "opciones": ["Reglas", "Borradores", "Cuadernos", "Plumas"]
+      },
+      {
+        "pregunta": "¿Cuál es la frecuencia relativa porcentual de los Cuadernos?",
+        "respuesta_correcta": 23.08,
+        "opciones": [23.08, 30.77, 11.97, 8.55]
+      },
+      {
+        "pregunta": "¿Cuántos artículos Plumas se registraron en frecuencia absoluta?",
+        "respuesta_correcta": 10,
+        "opciones": [10, 12, 14, 18]
+      },
+      {
+        "pregunta": "¿Qué artículo tiene una frecuencia relativa de 0.3077?",
+        "respuesta_correcta": "Lápices",
+        "opciones": ["Lápices", "Cuadernos", "Mochilas", "Borradores"]
+      }
+    ]
+  },
+
+  "dataset_4": {
+    "etiquetas": ["Perros", "Gatos", "Aves", "Peces", "Hamsters", "Reptiles"],
+    "matriz": [
+      [45, 0.3000, 30.00],
+      [28, 0.1867, 18.67],
+      [17, 0.1133, 11.33],
+      [22, 0.1467, 14.67],
+      [30, 0.2000, 20.00],
+      [8, 0.0533, 5.33]
+    ],
+    "preguntas": [
+      {
+        "pregunta": "¿Cuál es la frecuencia absoluta de Perros?",
+        "respuesta_correcta": 45,
+        "opciones": [45, 28, 17, 22]
+      },
+      {
+        "pregunta": "¿Qué etiqueta tiene una frecuencia relativa de 0.1867?",
+        "respuesta_correcta": "Gatos",
+        "opciones": ["Perros", "Gatos", "Aves", "Peces"]
+      },
+      {
+        "pregunta": "¿Cuál es la frecuencia relativa porcentual de Hamsters?",
+        "respuesta_correcta": 20.00,
+        "opciones": [20.00, 14.67, 11.33, 5.33]
+      },
+      {
+        "pregunta": "¿Qué animal tiene la menor frecuencia absoluta?",
+        "respuesta_correcta": "Reptiles",
+        "opciones": ["Reptiles", "Aves", "Peces", "Hamsters"]
+      },
+      {
+        "pregunta": "¿Cuál es la frecuencia relativa de Peces?",
+        "respuesta_correcta": 0.1467,
+        "opciones": [0.3000, 0.1867, 0.1467, 0.0533]
+      },
+      {
+        "pregunta": "¿Qué porcentaje representa la frecuencia relativa de Aves?",
+        "respuesta_correcta": 11.33,
+        "opciones": [11.33, 18.67, 14.67, 5.33]
+      },
+      {
+        "pregunta": "¿Cuál es la frecuencia absoluta de Hamsters?",
+        "respuesta_correcta": 30,
+        "opciones": [30, 22, 17, 8]
+      },
+      {
+        "pregunta": "¿Qué etiqueta corresponde a una frecuencia relativa porcentual de 5.33%?",
+        "respuesta_correcta": "Reptiles",
+        "opciones": ["Reptiles", "Perros", "Gatos", "Aves"]
+      },
+      {
+        "pregunta": "¿Cuál es la frecuencia relativa de Perros expresada en porcentaje?",
+        "respuesta_correcta": 30.00,
+        "opciones": [30.00, 20.00, 14.67, 11.33]
+      },
+      {
+        "pregunta": "¿Qué animal tiene una frecuencia absoluta de 17?",
+        "respuesta_correcta": "Aves",
+        "opciones": ["Aves", "Gatos", "Peces", "Hamsters"]
+      }
+    ]
+  }
+
+}

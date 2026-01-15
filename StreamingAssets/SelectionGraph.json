@@ -1,0 +1,802 @@
+{
+  "questions": [  
+    {
+      "etiquetas": ["Lunes", "Martes", "Miércoles", "Jueves", "Viernes"],
+      "enunciado": "Una tienda registra las ventas diarias de la semana y quiere comparar rápidamente qué día vendió más.",
+      "datos": [120, 95, 140, 110, 150],
+      "answers": [
+        "histograma",
+        "grafica_barra",
+        "grafica_lineas",
+        "grafica_pastel",
+        "boxplot",
+        "diagrama_dispersion"
+      ],
+      "correctAnswer": "grafica_barra"
+    },
+    {
+      "etiquetas": ["0-10", "10-20", "20-30", "30-40", "40-50"],
+      "enunciado": "Un profesor agrupa las calificaciones de sus alumnos en intervalos y quiere visualizar la distribución de frecuencia.",
+      "datos": [2, 5, 8, 10, 4],
+      "answers": [
+        "grafica_barra",
+        "grafica_pastel",
+        "histograma",
+        "boxplot",
+        "diagrama_dispersion",
+        "grafica_area"
+      ],
+      "correctAnswer": "histograma"
+    },
+    {
+      "etiquetas": ["Rosa", "Lirio", "Girasol", "Clavel"],
+      "enunciado": "Una florería quiere mostrar qué tipo de flor vende más proporcionalmente del total.",
+      "datos": [25, 30, 15, 10],
+      "answers": [
+        "grafica_pastel",
+        "histograma",
+        "boxplot",
+        "grafica_lineas",
+        "grafica_barra",
+        "grafica_area"
+      ],
+      "correctAnswer": "grafica_pastel"
+    },
+    {
+      "etiquetas": ["Enero", "Febrero", "Marzo", "Abril"],
+      "enunciado": "Se desea analizar si las ventas mensuales muestran una tendencia creciente o decreciente.",
+      "datos": [5000, 5200, 5500, 6000],
+      "answers": [
+        "histograma",
+        "grafica_barra",
+        "grafica_lineas",
+        "grafica_pastel",
+        "poligono_frecuencias",
+        "boxplot"
+      ],
+      "correctAnswer": "grafica_lineas"
+    },
+    {
+      "etiquetas": ["Ana", "Luis", "Pedro", "Raúl", "Sofía"],
+      "enunciado": "Se comparan las calificaciones finales de 5 estudiantes del mismo grupo.",
+      "datos": [85, 92, 70, 78, 95],
+      "answers": [
+        "histograma",
+        "grafica_barra",
+        "grafica_pastel",
+        "grafica_area",
+        "boxplot",
+        "diagrama_dispersion"
+      ],
+      "correctAnswer": "grafica_barra"
+    },
+    {
+      "etiquetas": ["Lunes", "Martes", "Miércoles", "Jueves", "Viernes"],
+      "enunciado": "Se requiere mostrar acumuladamente la asistencia diaria de alumnos durante la semana.",
+      "datos": [24, 28, 26, 30, 27],
+      "answers": [
+        "grafica_area",
+        "histograma",
+        "boxplot",
+        "grafica_pastel",
+        "grafica_barra",
+        "poligono_frecuencias"
+      ],
+      "correctAnswer": "grafica_area"
+    },
+    {
+      "etiquetas": ["Grupo A", "Grupo B", "Grupo C", "Grupo D"],
+      "enunciado": "Se desea comparar la dispersión de calificaciones entre cuatro grupos diferentes.",
+      "datos": [60, 55, 70, 65],
+      "answers": [
+        "grafica_barra",
+        "grafica_lineas",
+        "boxplot",
+        "histograma",
+        "grafica_area",
+        "grafica_pastel"
+      ],
+      "correctAnswer": "boxplot"
+    },
+    {
+      "etiquetas": ["0-5", "5-10", "10-15", "15-20"],
+      "enunciado": "Se recolecta el tiempo que tardan alumnos en resolver un examen y se quiere observar la forma de la distribución.",
+      "datos": [3, 7, 12, 5],
+      "answers": [
+        "histograma",
+        "grafica_barra",
+        "grafica_pastel",
+        "grafica_lineas",
+        "boxplot",
+        "diagrama_dispersion"
+      ],
+      "correctAnswer": "histograma"
+    },
+    {
+      "etiquetas": ["Manzanas", "Peras", "Uvas"],
+      "enunciado": "Una tienda de fruta quiere ver qué producto genera mayor porcentaje de venta total.",
+      "datos": [40, 35, 25],
+      "answers": [
+        "grafica_lineas",
+        "boxplot",
+        "grafica_pastel",
+        "histograma",
+        "grafica_barra",
+        "poligono_frecuencias"
+      ],
+      "correctAnswer": "grafica_pastel"
+    },
+    {
+      "etiquetas": ["Enero", "Febrero", "Marzo", "Abril", "Mayo"],
+      "enunciado": "La empresa quiere mostrar cómo han evolucionado las ventas del año mes a mes.",
+      "datos": [12, 15, 17, 20, 23],
+      "answers": [
+        "histograma",
+        "grafica_pastel",
+        "grafica_lineas",
+        "boxplot",
+        "grafica_barra",
+        "diagrama_dispersion"
+      ],
+      "correctAnswer": "grafica_lineas"
+    },
+    {
+      "etiquetas": ["17 años", "18 años", "19 años", "20 años", "21 años"],
+      "enunciado": "Se estudia el peso de los estudiantes en cada edad y se quiere analizar si hay relación entre edad y peso.",
+      "datos": [55, 60, 62, 70, 72],
+      "answers": [
+        "grafica_area",
+        "diagrama_dispersion",
+        "boxplot",
+        "grafica_pastel",
+        "grafica_barra",
+        "histograma"
+      ],
+      "correctAnswer": "diagrama_dispersion"
+    },
+    {
+      "etiquetas": ["0-1000", "1000-2000", "2000-3000", "3000-4000"],
+      "enunciado": "Un banco agrupa ingresos mensuales de clientes y desea observar cuántos clientes están en cada intervalo.",
+      "datos": [25, 42, 30, 18],
+      "answers": [
+        "grafica_pastel",
+        "histograma",
+        "poligono_frecuencias",
+        "boxplot",
+        "grafica_lineas",
+        "grafica_barra"
+      ],
+      "correctAnswer": "histograma"
+    },
+    {
+      "etiquetas": ["Producto A", "Producto B", "Producto C", "Producto D"],
+      "enunciado": "Un profesor quiere hacer una comparación clara y directa entre ventas de cuatro productos.",
+      "datos": [150, 200, 170, 300],
+      "answers": [
+        "grafica_barra",
+        "histograma",
+        "poligono_frecuencias",
+        "grafica_area",
+        "grafica_pastel",
+        "boxplot"
+      ],
+      "correctAnswer": "grafica_barra"
+    },
+    {
+      "etiquetas": ["Enero", "Febrero", "Marzo", "Abril"],
+      "enunciado": "Una escuela quiere mostrar no solo cambios mensuales, sino también la suma progresiva de nuevos alumnos inscritos.",
+      "datos": [10, 15, 20, 25],
+      "answers": [
+        "grafica_lineas",
+        "grafica_barra",
+        "grafica_area",
+        "grafica_pastel",
+        "histograma",
+        "boxplot"
+      ],
+      "correctAnswer": "grafica_area"
+    },
+    {
+      "etiquetas": ["Grupo 1", "Grupo 2", "Grupo 3"],
+      "enunciado": "Se quiere comparar la dispersión de puntajes entre tres grupos distintos en un examen.",
+      "datos": [70, 65, 85],
+      "answers": [
+        "boxplot",
+        "grafica_barra",
+        "grafica_pastel",
+        "poligono_frecuencias",
+        "grafica_area",
+        "histograma"
+      ],
+      "correctAnswer": "boxplot"
+    },
+    {
+      "etiquetas": ["18 años", "19 años", "20 años"],
+      "enunciado": "Se mide la estatura y se desea observar la tendencia general de crecimiento con respecto a la edad.",
+      "datos": [166, 170, 174],
+      "answers": [
+        "grafica_lineas",
+        "grafica_barra",
+        "grafica_area",
+        "histograma",
+        "grafica_pastel",
+        "diagrama_dispersion"
+      ],
+      "correctAnswer": "grafica_lineas"
+    },
+    {
+      "etiquetas": ["Física", "Química", "Historia", "Literatura", "Matemáticas"],
+      "enunciado": "Un estudiante quiere ver qué materias representan mayor porcentaje de su estudio semanal.",
+      "datos": [10, 8, 5, 7, 12],
+      "answers": [
+        "grafica_pastel",
+        "histograma",
+        "grafica_barra",
+        "grafica_area",
+        "boxplot",
+        "diagrama_dispersion"
+      ],
+      "correctAnswer": "grafica_pastel"
+    },
+    {
+      "etiquetas": ["0-50", "50-100", "100-150", "150-200", "200-250"],
+      "enunciado": "Una fábrica agrupa la cantidad de piezas producidas en intervalos y quiere observar la forma de la distribución.",
+      "datos": [5, 10, 14, 9, 3],
+      "answers": [
+        "histograma",
+        "grafica_barra",
+        "grafica_lineas",
+        "grafica_area",
+        "grafica_pastel",
+        "boxplot"
+      ],
+      "correctAnswer": "histograma"
+    },
+    {
+      "etiquetas": ["A", "B", "C", "D"],
+      "enunciado": "Se registran las ventas semanales de cuatro productos en una tienda.",
+      "datos": [120, 80, 95, 60],
+      "answers": [
+        "grafica_barra",
+        "grafica_pastel",
+        "histograma",
+        "pictograma",
+        "ojiva",
+        "grafica_lineas"
+      ],
+      "correctAnswer": "grafica_barra"
+    },
+    {
+      "etiquetas": ["Enero", "Febrero", "Marzo", "Abril", "Mayo"],
+      "enunciado": "Se desea mostrar el comportamiento de la temperatura promedio mes a mes.",
+      "datos": [12, 14, 18, 22, 26],
+      "answers": [
+        "grafica_pastel",
+        "histograma",
+        "grafica_lineas",
+        "pictograma",
+        "grafica_columna",
+        "poligono_frecuencias"
+      ],
+      "correctAnswer": "grafica_lineas"
+    },
+    {
+      "etiquetas": ["Marca A", "Marca B", "Marca C"],
+      "enunciado": "Se quiere representar qué proporción del mercado ocupan tres marcas de celulares.",
+      "datos": [45, 30, 25],
+      "answers": [
+        "grafica_pastel",
+        "grafica_columna",
+        "poligono_frecuencias",
+        "ojiva",
+        "histograma",
+        "grafica_lineas"
+      ],
+      "correctAnswer": "grafica_pastel"
+    },
+    {
+      "etiquetas": ["10-20", "20-30", "30-40", "40-50", "50-60"],
+      "enunciado": "Se agrupa la edad de los empleados de una empresa en intervalos.",
+      "datos": [4, 8, 12, 10, 6],
+      "answers": [
+        "grafica_columna",
+        "grafica_lineas",
+        "histograma",
+        "pictograma",
+        "grafica_barra",
+        "ojiva"
+      ],
+      "correctAnswer": "histograma"
+    },
+    {
+      "etiquetas": ["Azúcar", "Harina", "Frijol", "Arroz"],
+      "enunciado": "Se desea mostrar el cambio en el precio de varios productos en un supermercado en un día específico.",
+      "datos": [22, 18, 30, 25],
+      "answers": [
+        "pictograma",
+        "grafica_barra",
+        "grafica_pastel",
+        "histograma",
+        "ojiva",
+        "poligono_frecuencias"
+      ],
+      "correctAnswer": "grafica_barra"
+    },
+    {
+      "etiquetas": ["Semana 1", "Semana 2", "Semana 3", "Semana 4"],
+      "enunciado": "El profesor desea mostrar cómo ha ido mejorando el puntaje promedio en exámenes a lo largo de un mes.",
+      "datos": [65, 72, 78, 84],
+      "answers": [
+        "grafica_pastel",
+        "grafica_lineas",
+        "pictograma",
+        "histograma",
+        "poligono_frecuencias",
+        "grafica_columna"
+      ],
+      "correctAnswer": "grafica_lineas"
+    },
+    {
+      "etiquetas": ["Física", "Química", "Biología", "Matemáticas"],
+      "enunciado": "Se quiere comparar el número de estudiantes inscritos en distintas materias.",
+      "datos": [32, 24, 42, 50],
+      "answers": [
+        "grafica_barra",
+        "grafica_pastel",
+        "ojiva",
+        "histograma",
+        "grafica_lineas",
+        "poligono_frecuencias"
+      ],
+      "correctAnswer": "grafica_barra"
+    },
+    {
+      "etiquetas": ["0-5", "5-10", "10-15", "15-20"],
+      "enunciado": "En una encuesta se registra el tiempo de espera en minutos para ser atendido.",
+      "datos": [3, 7, 9, 4],
+      "answers": [
+        "histograma",
+        "grafica_pastel",
+        "pictograma",
+        "grafica_columna",
+        "grafica_lineas",
+        "poligono_frecuencias"
+      ],
+      "correctAnswer": "histograma"
+    },
+    {
+      "etiquetas": ["Norte", "Sur", "Este", "Oeste"],
+      "enunciado": "Un mapa muestra el número de escuelas ubicadas en cada zona de una ciudad.",
+      "datos": [18, 22, 15, 25],
+      "answers": [
+        "grafica_columna",
+        "grafica_pastel",
+        "poligono_frecuencias",
+        "pictograma",
+        "histograma",
+        "ojiva"
+      ],
+      "correctAnswer": "grafica_columna"
+    },
+    {
+      "etiquetas": ["Aprobados", "Reprobados"],
+      "enunciado": "En un examen se desea mostrar la proporción de estudiantes con calificación aprobatoria o reprobatoria.",
+      "datos": [85, 15],
+      "answers": [
+        "ojiva",
+        "grafica_pastel",
+        "grafica_lineas",
+        "histograma",
+        "grafica_barra",
+        "poligono_frecuencias"
+      ],
+      "correctAnswer": "grafica_pastel"
+    },
+    {
+      "etiquetas": ["Fresa", "Vainilla", "Chocolate"],
+      "enunciado": "Se mide la preferencia de sabores de helado en un grupo de alumnos.",
+      "datos": [40, 22, 55],
+      "answers": [
+        "grafica_barra",
+        "pictograma",
+        "grafica_pastel",
+        "histograma",
+        "grafica_lineas",
+        "ojiva"
+      ],
+      "correctAnswer": "grafica_pastel"
+    },
+    {
+      "etiquetas": ["Lunes", "Martes", "Miércoles", "Jueves", "Viernes"],
+      "enunciado": "El número de llamadas en un call center por día de la semana.",
+      "datos": [25, 38, 41, 30, 20],
+      "answers": [
+        "grafica_barra",
+        "grafica_pastel",
+        "poligono_frecuencias",
+        "histograma",
+        "pictograma",
+        "ojiva"
+      ],
+      "correctAnswer": "grafica_barra"
+    },
+    {
+      "etiquetas": ["0-50", "50-100", "100-150", "150-200"],
+      "enunciado": "Una empresa registra el número de unidades vendidas agrupadas por intervalos.",
+      "datos": [9, 12, 15, 6],
+      "answers": [
+        "histograma",
+        "poligono_frecuencias",
+        "grafica_pastel",
+        "pictograma",
+        "grafica_barra",
+        "grafica_lineas"
+      ],
+      "correctAnswer": "histograma"
+    },
+    {
+      "etiquetas": ["Corrida 1", "Corrida 2", "Corrida 3", "Corrida 4"],
+      "enunciado": "Tiempo (en segundos) que tarda un robot en completar 4 pruebas consecutivas.",
+      "datos": [12, 10, 9, 7],
+      "answers": [
+        "grafica_lineas",
+        "grafica_pastel",
+        "pictograma",
+        "histograma",
+        "ojiva",
+        "grafica_columna"
+      ],
+      "correctAnswer": "grafica_lineas"
+    },
+    {
+      "etiquetas": ["Comida", "Ropa", "Diversión", "Transporte"],
+      "enunciado": "Porcentaje de gasto mensual de un adolescente.",
+      "datos": [35, 20, 25, 20],
+      "answers": [
+        "grafica_pastel",
+        "grafica_columna",
+        "pictograma",
+        "histograma",
+        "poligono_frecuencias",
+        "ojiva"
+      ],
+      "correctAnswer": "grafica_pastel"
+    },
+    {
+      "etiquetas": ["Tienda A", "Tienda B", "Tienda C", "Tienda D"],
+      "enunciado": "Comparación de precios de un mismo producto en diferentes tiendas.",
+      "datos": [25, 28, 26, 30],
+      "answers": [
+        "grafica_barra",
+        "grafica_lineas",
+        "grafica_pastel",
+        "pictograma",
+        "ojiva",
+        "poligono_frecuencias"
+      ],
+      "correctAnswer": "grafica_barra"
+    },
+    {
+      "etiquetas": ["10-20", "20-30", "30-40", "40-50"],
+      "enunciado": "Agrupación de salarios mensuales en un estudio laboral.",
+      "datos": [5, 12, 9, 4],
+      "answers": [
+        "histograma",
+        "grafica_barra",
+        "grafica_lineas",
+        "grafica_pastel",
+        "pictograma",
+        "ojiva"
+      ],
+      "correctAnswer": "histograma"
+    },
+    {
+      "etiquetas": ["Juego 1", "Juego 2", "Juego 3"],
+      "enunciado": "Comparación de horas jugadas por semana en tres videojuegos.",
+      "datos": [8, 12, 6],
+      "answers": [
+        "grafica_columna",
+        "grafica_pastel",
+        "pictograma",
+        "histograma",
+        "ojiva",
+        "grafica_lineas"
+      ],
+      "correctAnswer": "grafica_columna"
+    },
+    {
+      "etiquetas": ["Lote 1", "Lote 2", "Lote 3", "Lote 4"],
+      "enunciado": "Número de piezas defectuosas encontradas en lotes de producción.",
+      "datos": [4, 7, 6, 8],
+      "answers": [
+        "grafica_barra",
+        "grafica_pastel",
+        "grafica_lineas",
+        "histograma",
+        "pictograma",
+        "ojiva"
+      ],
+      "correctAnswer": "grafica_barra"
+    },
+    {
+      "etiquetas": ["Año 1", "Año 2", "Año 3", "Año 4", "Año 5"],
+      "enunciado": "Evolución del número de turistas que visitan una ciudad durante cinco años.",
+      "datos": [9500, 11000, 13000, 15000, 17000],
+      "answers": [
+        "grafica_lineas",
+        "grafica_pastel",
+        "grafica_columna",
+        "histograma",
+        "pictograma",
+        "ojiva"
+      ],
+      "correctAnswer": "grafica_lineas"
+    },
+    {
+      "etiquetas": ["1°A", "1°B", "1°C"],
+      "enunciado": "Se registra cuántos alumnos participaron en un torneo de matemáticas por grupo.",
+      "datos": [18, 22, 15],
+      "answers": [
+        "grafica_barra",
+        "histograma",
+        "grafica_lineas",
+        "grafica_pastel",
+        "pictograma",
+        "ojiva"
+      ],
+      "correctAnswer": "grafica_barra"
+    },
+    {
+      "etiquetas": ["Q1", "Q2", "Q3", "Q4"],
+      "enunciado": "Se muestra la evolución de ganancias trimestrales de una empresa.",
+      "datos": [15000, 17000, 21000, 25000],
+      "answers": [
+        "grafica_lineas",
+        "grafica_columna",
+        "grafica_barra",
+        "pictograma",
+        "histograma",
+        "grafica_pastel"
+      ],
+      "correctAnswer": "grafica_lineas"
+    },
+    {
+      "etiquetas": ["Autos", "Motos", "Camiones", "Bicicletas"],
+      "enunciado": "Una ciudad registra el medio de transporte más utilizado por los habitantes.",
+      "datos": [40, 25, 15, 20],
+      "answers": [
+        "grafica_pastel",
+        "grafica_barra",
+        "poligono_frecuencias",
+        "pictograma",
+        "histograma",
+        "ojiva"
+      ],
+      "correctAnswer": "grafica_pastel"
+    },
+    {
+      "etiquetas": ["0-2", "2-4", "4-6", "6-8"],
+      "enunciado": "Un estudio registra el número de horas que los estudiantes dedican al deporte por día.",
+      "datos": [12, 18, 10, 5],
+      "answers": [
+        "histograma",
+        "grafica_lineas",
+        "grafica_pastel",
+        "pictograma",
+        "grafica_columna",
+        "ojiva"
+      ],
+      "correctAnswer": "histograma"
+    },
+    {
+      "etiquetas": ["Naranja", "Uva", "Piña"],
+      "enunciado": "Se desea representar el sabor de agua fresca más vendido durante el recreo.",
+      "datos": [38, 26, 12],
+      "answers": [
+        "grafica_pastel",
+        "grafica_columna",
+        "pictograma",
+        "histograma",
+        "grafica_lineas",
+        "ojiva"
+      ],
+      "correctAnswer": "grafica_pastel"
+    },
+    {
+      "etiquetas": ["Juego 1", "Juego 2", "Juego 3", "Juego 4"],
+      "enunciado": "Horas de práctica en distintos videojuegos durante el fin de semana.",
+      "datos": [5, 7, 3, 6],
+      "answers": [
+        "grafica_columna",
+        "grafica_lineas",
+        "grafica_pastel",
+        "pictograma",
+        "histograma",
+        "ojiva"
+      ],
+      "correctAnswer": "grafica_columna"
+    },
+    {
+      "etiquetas": ["Lunes", "Martes", "Miércoles"],
+      "enunciado": "Una cafetería registra cuántos cafés vende por día entre semana.",
+      "datos": [50, 70, 65],
+      "answers": [
+        "grafica_barra",
+        "grafica_pastel",
+        "poligono_frecuencias",
+        "ojiva",
+        "histograma",
+        "grafica_lineas"
+      ],
+      "correctAnswer": "grafica_barra"
+    },
+    {
+      "etiquetas": ["0-100", "100-200", "200-300", "300-400"],
+      "enunciado": "Se agrupan los ingresos mensuales de una muestra de trabajadores.",
+      "datos": [10, 22, 14, 4],
+      "answers": [
+        "histograma",
+        "grafica_barra",
+        "poligono_frecuencias",
+        "ojiva",
+        "pictograma",
+        "grafica_pastel"
+      ],
+      "correctAnswer": "histograma"
+    },
+    {
+      "etiquetas": ["Ene", "Feb", "Mar", "Abr", "May", "Jun"],
+      "enunciado": "Se registra el crecimiento de seguidores en una cuenta de redes sociales mes a mes.",
+      "datos": [120, 200, 300, 420, 500, 650],
+      "answers": [
+        "grafica_lineas",
+        "grafica_pastel",
+        "pictograma",
+        "histograma",
+        "grafica_barra",
+        "poligono_frecuencias"
+      ],
+      "correctAnswer": "grafica_lineas"
+    },
+    {
+      "etiquetas": ["Salsa", "Rock", "Pop", "Balada"],
+      "enunciado": "Se quiere mostrar el género musical preferido en un salón de clases.",
+      "datos": [10, 15, 30, 5],
+      "answers": [
+        "grafica_pastel",
+        "grafica_columna",
+        "grafica_lineas",
+        "histograma",
+        "pictograma",
+        "ojiva"
+      ],
+      "correctAnswer": "grafica_pastel"
+    },
+    {
+      "etiquetas": ["1-2", "2-3", "3-4", "4-5"],
+      "enunciado": "Tiempo de viaje diario en horas para llegar a la escuela.",
+      "datos": [8, 20, 14, 5],
+      "answers": [
+        "histograma",
+        "grafica_pastel",
+        "grafica_barra",
+        "pictograma",
+        "ojiva",
+        "grafica_lineas"
+      ],
+      "correctAnswer": "histograma"
+    },
+    {
+      "etiquetas": ["Equipo A", "Equipo B", "Equipo C", "Equipo D"],
+      "enunciado": "Número de goles anotados por cuatro equipos en un torneo escolar.",
+      "datos": [12, 18, 10, 14],
+      "answers": [
+        "grafica_barra",
+        "grafica_pastel",
+        "pictograma",
+        "grafica_lineas",
+        "histograma",
+        "ojiva"
+      ],
+      "correctAnswer": "grafica_barra"
+    },
+    {
+      "etiquetas": ["Producto 1", "Producto 2", "Producto 3"],
+      "enunciado": "Comparación del precio promedio de tres productos en una tienda.",
+      "datos": [25, 28, 20],
+      "answers": [
+        "grafica_columna",
+        "grafica_lineas",
+        "grafica_pastel",
+        "histograma",
+        "pictograma",
+        "ojiva"
+      ],
+      "correctAnswer": "grafica_columna"
+    },
+    {
+      "etiquetas": ["Manzana", "Banana", "Durazno", "Pera"],
+      "enunciado": "Consumo semanal de frutas entre los estudiantes.",
+      "datos": [30, 20, 12, 10],
+      "answers": [
+        "pictograma",
+        "grafica_barra",
+        "grafica_lineas",
+        "grafica_pastel",
+        "histograma",
+        "ojiva"
+      ],
+      "correctAnswer": "pictograma"
+    },
+    {
+      "etiquetas": ["0-50", "50-100", "100-150"],
+      "enunciado": "Una encuesta agrupa los gastos diarios en tres intervalos económicos.",
+      "datos": [15, 25, 10],
+      "answers": [
+        "histograma",
+        "grafica_barra",
+        "grafica_pastel",
+        "ojiva",
+        "pictograma",
+        "poligono_frecuencias"
+      ],
+      "correctAnswer": "histograma"
+    },
+    {
+      "etiquetas": ["Mañana", "Tarde", "Noche"],
+      "enunciado": "Se mide cuántas personas utilizan el gimnasio según la hora del día.",
+      "datos": [20, 35, 15],
+      "answers": [
+        "grafica_barra",
+        "grafica_pastel",
+        "grafica_lineas",
+        "histograma",
+        "pictograma",
+        "ojiva"
+      ],
+      "correctAnswer": "grafica_barra"
+    },
+    {
+      "etiquetas": ["Año 1", "Año 2", "Año 3"],
+      "enunciado": "Se registra el incremento de la matrícula escolar durante tres años consecutivos.",
+      "datos": [400, 430, 485],
+      "answers": [
+        "grafica_lineas",
+        "grafica_columna",
+        "grafica_pastel",
+        "histograma",
+        "pictograma",
+        "ojiva"
+      ],
+      "correctAnswer": "grafica_lineas"
+    },
+    {
+      "etiquetas": ["Móvil", "Computadora", "Tablet", "Consola"],
+      "enunciado": "Preferencia de dispositivo para jugar videojuegos.",
+      "datos": [40, 30, 18, 12],
+      "answers": [
+        "grafica_pastel",
+        "grafica_columna",
+        "histograma",
+        "grafica_lineas",
+        "pictograma",
+        "ojiva"
+      ],
+      "correctAnswer": "grafica_pastel"
+    },
+    {
+      "etiquetas": ["Semana 1", "Semana 2", "Semana 3", "Semana 4"],
+      "enunciado": "Progreso de ventas en un negocio a lo largo de un mes.",
+      "datos": [1200, 1450, 1800, 2100],
+      "answers": [
+        "grafica_lineas",
+        "grafica_barra",
+        "grafica_pastel",
+        "pictograma",
+        "histograma",
+        "poligono_frecuencias"
+      ],
+      "correctAnswer": "grafica_lineas"
+    }
+  ]
+}
